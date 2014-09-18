@@ -1,0 +1,925 @@
+{
+	"folder_history":
+	[
+		"/home/pawel/Development/ncl/utils",
+		"/home/pawel/Development/wdrozenia/presence-analyzer-lkolat/src",
+		"/home/pawel/Development/ki",
+		"/home/pawel/Development/ki/key-auth",
+		"/home/pawel/Development/ki/keysocial",
+		"/home/pawel/Development/ki/key-usergen"
+	],
+	"last_version": 3065,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Te",
+						"TemplateTestMixin	class"
+					],
+					[
+						"assert",
+						"assertTagCount	function"
+					],
+					[
+						"so",
+						"soup	statement"
+					],
+					[
+						"cle",
+						"clean	function"
+					],
+					[
+						"clean",
+						"clean_method"
+					],
+					[
+						"find",
+						"find_all	function"
+					],
+					[
+						"No",
+						"NotImplementedError	class"
+					],
+					[
+						"Pro",
+						"ProxyHandler"
+					],
+					[
+						"fin",
+						"final_url	statement"
+					],
+					[
+						"asse",
+						"assertEqual	function"
+					],
+					[
+						"Wr",
+						"WrappedBlogProxyHandler	class"
+					],
+					[
+						"rec",
+						"recipe_id	statement"
+					],
+					[
+						"obe",
+						"objects"
+					],
+					[
+						"con",
+						"contents"
+					],
+					[
+						"Re",
+						"REMOVE	statement"
+					],
+					[
+						"reci",
+						"recipe_ids	statement"
+					],
+					[
+						"pa",
+						"params"
+					],
+					[
+						"return",
+						"return_value"
+					],
+					[
+						"retur",
+						"return_value"
+					],
+					[
+						"blo",
+						"blog_soup	statement"
+					],
+					[
+						"is",
+						"isinstance	function"
+					],
+					[
+						"ass",
+						"assertEqual	function"
+					],
+					[
+						"sha",
+						"sharetags"
+					],
+					[
+						"loo",
+						"lookup_attr	statement"
+					],
+					[
+						"get",
+						"getattr	function"
+					],
+					[
+						"url",
+						"urlencode	function"
+					],
+					[
+						"pin",
+						"pinterest_description	statement"
+					],
+					[
+						"piteres",
+						"pinterest_description"
+					],
+					[
+						"Key",
+						"KeySocialTest	class"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 105.0,
+				"selected_items":
+				[
+					[
+						"vme",
+						"View: Toggle Menu"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"diff",
+						"Git: Diff All Files"
+					],
+					[
+						"jin",
+						"Set Syntax: Jinja Templates"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 511.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/pawel/Development/ki/keysocial/lib/testing.py",
+				"/home/pawel/Development/ki/key-auth/api/views/v2.py",
+				"/home/pawel/Development/ki/keysocial/tests/test_blog.py",
+				"/home/pawel/Development/ki/keysocial/blog/views.py",
+				"/home/pawel/Development/ki/keysocial/proxy/handlers.py",
+				"/usr/lib/python2.7/unittest/case.py",
+				"/home/pawel/Development/ki/keysocial/ki/shared/testing/testcases.py",
+				"/home/pawel/Development/ki/keysocial/ki/tests/__init__.py",
+				"/home/pawel/Development/ki/keysocial/ki/tests/test_tools.py",
+				"/home/pawel/Development/ki/keysocial/ki/tests/test_utils.py",
+				"/home/pawel/Development/ki/keysocial/tests/__init__.py",
+				"/home/pawel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/pawel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/pawel/Development/ki/keysocial/ki/shared/testing/__init__.py",
+				"/home/pawel/Development/ki/keysocial/blog/urls.py",
+				"/home/pawel/Development/ki/keysocial/buildout.cfg",
+				"/home/pawel/Development/ki/keysocial/.eggs/beautifulsoup4-4.3.2-py2.7.egg/bs4/element.py",
+				"/home/pawel/Development/ki/key-auth/core/models.py",
+				"/home/pawel/Development/ki/key-auth/api/views/v1.py",
+				"/home/pawel/Development/ki/keysocial/ki/services/__init__.py",
+				"/home/pawel/Development/ki/keysocial/ki/services/accounts.py",
+				"/home/pawel/Development/ki/keysocial/ki/services/messages.py",
+				"/home/pawel/Development/ki/keysocial/ki/webapp/utils.py",
+				"/home/pawel/Development/ki/keysocial/ki/ext/bs4/element.py",
+				"/home/pawel/Development/ki/keysocial/ki/ext/bs4/__init__.py",
+				"/home/pawel/Development/ki/keysocial/ki/ext/BeautifulSoup.py",
+				"/home/pawel/Development/ki/keysocial/ki/ext/__init__.py",
+				"/home/pawel/Development/ki/keysocial/app.yaml",
+				"/home/pawel/Development/ki/keysocial/welcome/urls.py",
+				"/home/pawel/Development/ki/keysocial/main.py",
+				"/home/pawel/Development/ki/key-auth/ki/shared/utils.py",
+				"/home/pawel/Development/ki/key-auth/ki/services/payments/payments.py",
+				"/home/pawel/Development/ki/key-auth/ki/services/messages.py",
+				"/home/pawel/Development/ki/key-auth/main.py",
+				"/home/pawel/Development/ki/key-auth/core/views/oauth.py",
+				"/home/pawel/Development/ki/key-auth/ki/tests/test_payments.py",
+				"/home/pawel/Development/ki/keysocial/welcome/views.py",
+				"/home/pawel/Development/ki/keysocial/settings/shared.py",
+				"/home/pawel/Development/ki/key-auth/api/main.py",
+				"/home/pawel/Development/ki/key-auth/payments/processors/stripe.py",
+				"/home/pawel/Development/ki/key-auth/mapreduce.yaml",
+				"/home/pawel/Development/ki/key-auth/core/jobs.py",
+				"/home/pawel/Development/ki/key-auth/ki/tests/test_utils.py",
+				"/home/pawel/Development/ki/key-auth/core/utils.py",
+				"/home/pawel/Development/ki/key-auth/core/tasks.py",
+				"/home/pawel/Development/ki/key-auth/lib/oauth/tasks.py",
+				"/home/pawel/Development/ki/key-auth/lib/oauth/base.py",
+				"/home/pawel/Development/ki/key-auth/lib/oauth/twitter_provider.py",
+				"/home/pawel/.gitignore",
+				"/home/pawel/.gitconfig",
+				"/home/pawel/Development/ki/keysocial/appengine_config.py",
+				"/home/pawel/Development/ki/keysocial/.parts/google_appengine/lib/webapp2-2.5.2/webapp2.py",
+				"/home/pawel/Development/ki/keysocial/ki/webapp/handlers.py",
+				"/opt/python/2.7/lib/python2.7/markupbase.py",
+				"/usr/lib/python2.7/markupbase.py",
+				"/home/pawel/Development/ki/keysocial/tests/test_welcome.py",
+				"/home/pawel/Development/ki/keysocial/recipes/utils/__init__.py",
+				"/home/pawel/Development/ki/key-usergen/lib/testing.py",
+				"/home/pawel/Development/ki/key-usergen/apis/views/v1.py",
+				"/home/pawel/Development/ki/key-usergen/apis/utils.py",
+				"/home/pawel/Development/ki/keysocial/ki/services/recipes.py",
+				"/home/pawel/Development/ki/key-usergen/tests/test_recipes.py",
+				"/home/pawel/Development/ki/keysocial/tests/test_recipes.py",
+				"/home/pawel/.bashrc",
+				"/home/pawel/Development/ki/key-usergen/app.yaml",
+				"/home/pawel/Development/ki/keysocial/.git/modules/ki/COMMIT_EDITMSG",
+				"/home/pawel/Development/ki/key-usergen/.git/COMMIT_EDITMSG",
+				"/home/pawel/.remote_api_creds",
+				"/home/pawel/Development/ki/keysocial/ki/shared/fabric/__init__.py",
+				"/home/pawel/Development/ki/keysocial/ki/shared/fabric/utils.py",
+				"/home/pawel/Development/ki/keysocial/recipes/urls.py",
+				"/home/pawel/Development/ki/keysocial/recipes/views/main.py",
+				"/home/pawel/Development/ki/keysocial/templates/macros/recipe.html",
+				"/home/pawel/Development/ki/keysocial/templates/recipes/recipe.html",
+				"/home/pawel/Development/ki/keysocial/.git/COMMIT_EDITMSG",
+				"/home/pawel/Development/ki/keysocial/templates/modules/_top_recipes.html",
+				"/home/pawel/Development/ki/key-usergen/recipes/models.py",
+				"/home/pawel/Development/ki/keysocial/settings/local.py",
+				"/home/pawel/Development/ki/key-usergen/apis/main.py",
+				"/home/pawel/Development/ki/keysocial/templates/welcome/index.html",
+				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_sidebar.html",
+				"/home/pawel/Development/ki/keysocial/translation/locales.py",
+				"/home/pawel/Development/ki/key-usergen/lib/extra_settings/local.py",
+				"/home/pawel/Development/ki/keysocial/cms.py",
+				"/home/pawel/Development/ki/keysocial/settings/production.py",
+				"/home/pawel/Development/ki/keysocial/translation/sites.py",
+				"/home/pawel/Development/ki/keysocial/templates/welcome/ipad.html",
+				"/home/pawel/Development/ki/keysocial/recipes/utils/sharetags.py",
+				"/home/pawel/Development/ki/keysocial/tests/test_translation.py",
+				"/home/pawel/Development/ki/keysocial/recipes/views/misc.py",
+				"/home/pawel/Development/ki/keysocial/translation/middleware.py",
+				"/home/pawel/Development/ki/keysocial/lib/context.py",
+				"/home/pawel/Development/ki/keysocial/settings/local.py.example",
+				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_body.html",
+				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_social.html",
+				"/home/pawel/Development/ki/keysocial/htmlcov/recipes_views_main.html",
+				"/home/pawel/Development/ki/keysocial/lib/jinja/helpers.py",
+				"/home/pawel/Development/ki/keysocial/ki/shared/utils.py",
+				"/home/pawel/Development/ki/keysocial/recipes/__init__.py",
+				"/home/pawel/Development/ki/keysocial/settings/staging.py",
+				"/home/pawel/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/pawel/Development/ki/keysocial/etc/nginx.conf.in",
+				"/home/pawel/Development/ki/keysocial/vagrant_bootstrap.sh",
+				"/home/pawel/Development/ki/keysocial/fabfile.py",
+				"/home/pawel/.config/powerline-shell/powerline-shell.py"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"keysocial/*",
+					"key-auth/*",
+					"keysocial/*"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"oauth",
+					"lite",
+					"comment",
+					"self.contents",
+					"Comment",
+					"OauthInfo",
+					"signature-snap-bare-test",
+					"set_auth_coo",
+					"oauth",
+					"get_oauth_for_account",
+					"task_add_event",
+					"Comment",
+					"Tag",
+					"Comment",
+					"pdb",
+					"comm",
+					"<!-- te",
+					"<!",
+					"parse_comment",
+					"BeautifulSoupHTMLParser",
+					"self.so",
+					"slugify",
+					"<<<<<",
+					"recipes.views",
+					"get_recipe",
+					"def rev",
+					"to_pb_result",
+					"BaseBulkHandler",
+					"bulk",
+					"RecipeBulkTestCase",
+					"self.get_pb(",
+					"/api/v1/recipes/",
+					"/api/v1/recipes/\\\\b",
+					"/api/v1/recipes/\\b",
+					"/api/v1/recipes/",
+					"UsergenApiTest",
+					"get_pb",
+					"RecipeBulkHandler",
+					"/api/v1/recipes/",
+					"bulk",
+					"1343015032",
+					"mobile_picks",
+					"get_mobile_picks",
+					"top_pi",
+					"url",
+					"{% url",
+					" (",
+					"pinterest_description",
+					"recipes.views",
+					"core_image_url",
+					"recipe_url",
+					"fq_recipe_url",
+					"pinterest_image",
+					"new-social",
+					"print"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"    (",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 297.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Te",
+						"TemplateTestMixin	class"
+					],
+					[
+						"assert",
+						"assertTagCount	function"
+					],
+					[
+						"so",
+						"soup	statement"
+					],
+					[
+						"cle",
+						"clean	function"
+					],
+					[
+						"clean",
+						"clean_method"
+					],
+					[
+						"find",
+						"find_all	function"
+					],
+					[
+						"No",
+						"NotImplementedError	class"
+					],
+					[
+						"Pro",
+						"ProxyHandler"
+					],
+					[
+						"fin",
+						"final_url	statement"
+					],
+					[
+						"asse",
+						"assertEqual	function"
+					],
+					[
+						"Wr",
+						"WrappedBlogProxyHandler	class"
+					],
+					[
+						"rec",
+						"recipe_id	statement"
+					],
+					[
+						"obe",
+						"objects"
+					],
+					[
+						"con",
+						"contents"
+					],
+					[
+						"Re",
+						"REMOVE	statement"
+					],
+					[
+						"reci",
+						"recipe_ids	statement"
+					],
+					[
+						"pa",
+						"params"
+					],
+					[
+						"return",
+						"return_value"
+					],
+					[
+						"retur",
+						"return_value"
+					],
+					[
+						"blo",
+						"blog_soup	statement"
+					],
+					[
+						"is",
+						"isinstance	function"
+					],
+					[
+						"ass",
+						"assertEqual	function"
+					],
+					[
+						"sha",
+						"sharetags"
+					],
+					[
+						"loo",
+						"lookup_attr	statement"
+					],
+					[
+						"get",
+						"getattr	function"
+					],
+					[
+						"url",
+						"urlencode	function"
+					],
+					[
+						"pin",
+						"pinterest_description	statement"
+					],
+					[
+						"piteres",
+						"pinterest_description"
+					],
+					[
+						"Key",
+						"KeySocialTest	class"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 105.0,
+				"selected_items":
+				[
+					[
+						"vme",
+						"View: Toggle Menu"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"diff",
+						"Git: Diff All Files"
+					],
+					[
+						"jin",
+						"Set Syntax: Jinja Templates"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 511.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/pawel/Development/ncl/utils"
+			],
+			"file_history":
+			[
+				"/home/pawel/Development/ncl/utils/test.html",
+				"/home/pawel/.virtualenvs/ncl-utils/lib/python2.7/site-packages/xhtml2pdf/context.py",
+				"/home/pawel/.virtualenvs/ncl-utils/lib/python2.7/site-packages/xhtml2pdf/document.py",
+				"/home/pawel/.virtualenvs/ncl-utils/lib/python2.7/site-packages/xhtml2pdf/pisa.py",
+				"/home/pawel/Development/ncl/utils/conv.py",
+				"/home/pawel/Development/ki/keysocial/lib/testing.py",
+				"/home/pawel/Development/ki/key-auth/api/views/v2.py",
+				"/home/pawel/Development/ki/keysocial/tests/test_blog.py",
+				"/home/pawel/Development/ki/keysocial/blog/views.py",
+				"/home/pawel/Development/ki/keysocial/proxy/handlers.py",
+				"/usr/lib/python2.7/unittest/case.py",
+				"/home/pawel/Development/ki/keysocial/ki/shared/testing/testcases.py",
+				"/home/pawel/Development/ki/keysocial/ki/tests/__init__.py",
+				"/home/pawel/Development/ki/keysocial/ki/tests/test_tools.py",
+				"/home/pawel/Development/ki/keysocial/ki/tests/test_utils.py",
+				"/home/pawel/Development/ki/keysocial/tests/__init__.py",
+				"/home/pawel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/pawel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/pawel/Development/ki/keysocial/ki/shared/testing/__init__.py",
+				"/home/pawel/Development/ki/keysocial/blog/urls.py",
+				"/home/pawel/Development/ki/keysocial/buildout.cfg",
+				"/home/pawel/Development/ki/keysocial/.eggs/beautifulsoup4-4.3.2-py2.7.egg/bs4/element.py",
+				"/home/pawel/Development/ki/key-auth/core/models.py",
+				"/home/pawel/Development/ki/key-auth/api/views/v1.py",
+				"/home/pawel/Development/ki/keysocial/ki/services/__init__.py",
+				"/home/pawel/Development/ki/keysocial/ki/services/accounts.py",
+				"/home/pawel/Development/ki/keysocial/ki/services/messages.py",
+				"/home/pawel/Development/ki/keysocial/ki/webapp/utils.py",
+				"/home/pawel/Development/ki/keysocial/ki/ext/bs4/element.py",
+				"/home/pawel/Development/ki/keysocial/ki/ext/bs4/__init__.py",
+				"/home/pawel/Development/ki/keysocial/ki/ext/BeautifulSoup.py",
+				"/home/pawel/Development/ki/keysocial/ki/ext/__init__.py",
+				"/home/pawel/Development/ki/keysocial/app.yaml",
+				"/home/pawel/Development/ki/keysocial/welcome/urls.py",
+				"/home/pawel/Development/ki/keysocial/main.py",
+				"/home/pawel/Development/ki/key-auth/ki/shared/utils.py",
+				"/home/pawel/Development/ki/key-auth/ki/services/payments/payments.py",
+				"/home/pawel/Development/ki/key-auth/ki/services/messages.py",
+				"/home/pawel/Development/ki/key-auth/main.py",
+				"/home/pawel/Development/ki/key-auth/core/views/oauth.py",
+				"/home/pawel/Development/ki/key-auth/ki/tests/test_payments.py",
+				"/home/pawel/Development/ki/keysocial/welcome/views.py",
+				"/home/pawel/Development/ki/keysocial/settings/shared.py",
+				"/home/pawel/Development/ki/key-auth/api/main.py",
+				"/home/pawel/Development/ki/key-auth/payments/processors/stripe.py",
+				"/home/pawel/Development/ki/key-auth/mapreduce.yaml",
+				"/home/pawel/Development/ki/key-auth/core/jobs.py",
+				"/home/pawel/Development/ki/key-auth/ki/tests/test_utils.py",
+				"/home/pawel/Development/ki/key-auth/core/utils.py",
+				"/home/pawel/Development/ki/key-auth/core/tasks.py",
+				"/home/pawel/Development/ki/key-auth/lib/oauth/tasks.py",
+				"/home/pawel/Development/ki/key-auth/lib/oauth/base.py",
+				"/home/pawel/Development/ki/key-auth/lib/oauth/twitter_provider.py",
+				"/home/pawel/.gitignore",
+				"/home/pawel/.gitconfig",
+				"/home/pawel/Development/ki/keysocial/appengine_config.py",
+				"/home/pawel/Development/ki/keysocial/.parts/google_appengine/lib/webapp2-2.5.2/webapp2.py",
+				"/home/pawel/Development/ki/keysocial/ki/webapp/handlers.py",
+				"/opt/python/2.7/lib/python2.7/markupbase.py",
+				"/usr/lib/python2.7/markupbase.py",
+				"/home/pawel/Development/ki/keysocial/tests/test_welcome.py",
+				"/home/pawel/Development/ki/keysocial/recipes/utils/__init__.py",
+				"/home/pawel/Development/ki/key-usergen/lib/testing.py",
+				"/home/pawel/Development/ki/key-usergen/apis/views/v1.py",
+				"/home/pawel/Development/ki/key-usergen/apis/utils.py",
+				"/home/pawel/Development/ki/keysocial/ki/services/recipes.py",
+				"/home/pawel/Development/ki/key-usergen/tests/test_recipes.py",
+				"/home/pawel/Development/ki/keysocial/tests/test_recipes.py",
+				"/home/pawel/.bashrc",
+				"/home/pawel/Development/ki/key-usergen/app.yaml",
+				"/home/pawel/Development/ki/keysocial/.git/modules/ki/COMMIT_EDITMSG",
+				"/home/pawel/Development/ki/key-usergen/.git/COMMIT_EDITMSG",
+				"/home/pawel/.remote_api_creds",
+				"/home/pawel/Development/ki/keysocial/ki/shared/fabric/__init__.py",
+				"/home/pawel/Development/ki/keysocial/ki/shared/fabric/utils.py",
+				"/home/pawel/Development/ki/keysocial/recipes/urls.py",
+				"/home/pawel/Development/ki/keysocial/recipes/views/main.py",
+				"/home/pawel/Development/ki/keysocial/templates/macros/recipe.html",
+				"/home/pawel/Development/ki/keysocial/templates/recipes/recipe.html",
+				"/home/pawel/Development/ki/keysocial/.git/COMMIT_EDITMSG",
+				"/home/pawel/Development/ki/keysocial/templates/modules/_top_recipes.html",
+				"/home/pawel/Development/ki/key-usergen/recipes/models.py",
+				"/home/pawel/Development/ki/keysocial/settings/local.py",
+				"/home/pawel/Development/ki/key-usergen/apis/main.py",
+				"/home/pawel/Development/ki/keysocial/templates/welcome/index.html",
+				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_sidebar.html",
+				"/home/pawel/Development/ki/keysocial/translation/locales.py",
+				"/home/pawel/Development/ki/key-usergen/lib/extra_settings/local.py",
+				"/home/pawel/Development/ki/keysocial/cms.py",
+				"/home/pawel/Development/ki/keysocial/settings/production.py",
+				"/home/pawel/Development/ki/keysocial/translation/sites.py",
+				"/home/pawel/Development/ki/keysocial/templates/welcome/ipad.html",
+				"/home/pawel/Development/ki/keysocial/recipes/utils/sharetags.py",
+				"/home/pawel/Development/ki/keysocial/tests/test_translation.py",
+				"/home/pawel/Development/ki/keysocial/recipes/views/misc.py",
+				"/home/pawel/Development/ki/keysocial/translation/middleware.py",
+				"/home/pawel/Development/ki/keysocial/lib/context.py",
+				"/home/pawel/Development/ki/keysocial/settings/local.py.example",
+				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_body.html",
+				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_social.html",
+				"/home/pawel/Development/ki/keysocial/htmlcov/recipes_views_main.html",
+				"/home/pawel/Development/ki/keysocial/lib/jinja/helpers.py",
+				"/home/pawel/Development/ki/keysocial/ki/shared/utils.py",
+				"/home/pawel/Development/ki/keysocial/recipes/__init__.py",
+				"/home/pawel/Development/ki/keysocial/settings/staging.py",
+				"/home/pawel/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/pawel/Development/ki/keysocial/etc/nginx.conf.in",
+				"/home/pawel/Development/ki/keysocial/vagrant_bootstrap.sh",
+				"/home/pawel/Development/ki/keysocial/fabfile.py",
+				"/home/pawel/.config/powerline-shell/powerline-shell.py"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"/home/pawel/.virtualenvs/",
+					"keysocial/*",
+					"key-auth/*",
+					"keysocial/*"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"CreatePDF",
+					"convertHtmlToPdf",
+					"oauth",
+					"lite",
+					"comment",
+					"self.contents",
+					"Comment",
+					"OauthInfo",
+					"signature-snap-bare-test",
+					"set_auth_coo",
+					"oauth",
+					"get_oauth_for_account",
+					"task_add_event",
+					"Comment",
+					"Tag",
+					"Comment",
+					"pdb",
+					"comm",
+					"<!-- te",
+					"<!",
+					"parse_comment",
+					"BeautifulSoupHTMLParser",
+					"self.so",
+					"slugify",
+					"<<<<<",
+					"recipes.views",
+					"get_recipe",
+					"def rev",
+					"to_pb_result",
+					"BaseBulkHandler",
+					"bulk",
+					"RecipeBulkTestCase",
+					"self.get_pb(",
+					"/api/v1/recipes/",
+					"/api/v1/recipes/\\\\b",
+					"/api/v1/recipes/\\b",
+					"/api/v1/recipes/",
+					"UsergenApiTest",
+					"get_pb",
+					"RecipeBulkHandler",
+					"/api/v1/recipes/",
+					"bulk",
+					"1343015032",
+					"mobile_picks",
+					"get_mobile_picks",
+					"top_pi",
+					"url",
+					"{% url",
+					" (",
+					"pinterest_description",
+					"recipes.views",
+					"core_image_url",
+					"recipe_url",
+					"fq_recipe_url",
+					"pinterest_image",
+					"new-social",
+					"print"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"    (",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/pawel/Development/ncl/utils"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,863,27,1503,507,3840,1200",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 297.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
