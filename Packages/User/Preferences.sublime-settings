@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"color_scheme": "Packages/User/Afterglow-monokai (SublimePythonIDE).tmTheme",
 	"draw_minimap_border": true,
 	"enable_telemetry": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -19,7 +19,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 12,
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -43,8 +43,7 @@
 	"show_panel_on_build": false,
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
-	"theme": "Afterglow-blue.sublime-theme",
+	"theme": "Afterglow-magenta.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"wrap_width": 80
+	"trim_trailing_white_space_on_save": true
 }

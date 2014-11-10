@@ -16,6 +16,14 @@ import subprocess
 
 import sublime
 
+# define if we are in a git installation
+git_installation = False
+try:
+    import Anaconda
+    assert Anaconda
+except ImportError:
+    git_installation = True
+
 NONE = 0x00
 ONLY_CODE = 0x01
 NOT_SCRATCH = 0x02
@@ -125,7 +133,7 @@ def get_settings(view, name, default=None):
     """
 
     if view is None:
-        return None
+        return default
 
     plugin_settings = sublime.load_settings('Anaconda.sublime-settings')
 

@@ -65,6 +65,54 @@ Go to your sublime text 3 packages directory and clone the repo:
 
     git clone https://github.com/DamnWidget/anaconda.git Anaconda
 
+Where to place Anaconda settings options?
+-----------------------------------------
+
+You can place anaconda settings in three different places.
+
+    1. Anaconda.sublime-settings global settings file
+    2. Anaconda.sublime-settings user settigs file
+    3. Project files
+
+If you use the first and second options, take into account that you are configuring anaconda globally for any Python file in any project. To use those two files just go to `Preferences -> Package Settings->Anaconda` then there is a `Settings-Default` and `Settings-User` for options 1 and 2 respectively. Any option in those files have to be places in the global scope.
+
+```json
+{
+    "python_interpreter": "stackless_python3",
+    "auto_python_builder_enabled": false,
+    ...
+}
+```
+
+If you want to override any anaconda settings in specific projects (the `python_interpreter` for example) you can add all the configuration options that you need into your specific Sublime Text project file. In that case, the options must be placed inside the `settings` dictionary of the project configuration file.
+
+```json
+{
+    "build_systems":
+	[
+		{
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "/home/damnwidget/.virtualenvs/txorm/bin/python -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "/home/damnwidget/.virtualenvs/txorm/bin/python",
+		"auto_python_builder_enabled": false,
+		...
+	}
+}
+```
+
+
 Anaconda autocompletion
 -----------------------
 
@@ -85,6 +133,8 @@ You can of course configure the python interpreter to use in a `per-project` bas
             "python_interpreter": "/home/damnwidget/.virtualenvs/mamba-pypy/bin/python"
         }
     }
+
+**Note**: refer to [Howto Configure Anaconda Section](https://github.com/DamnWidget/anaconda/blob/master/README.md#) for more information about anaconda configuration.
 
 You can add additional python extra paths that should be used for autocompletion purposes setting a list of paths using the user setting ``extra_paths``:
 
@@ -210,6 +260,18 @@ Please, take a look at the configuration file to get a list of available options
 
 Anaconda will add an `import <undefined_name>` at the end of your imports block if you use the context menu Autoimport anaconda option using the right mouse click over an undefined name in your buffer. Note that anaconda will NOT check if that is a valid import or not.
 
+#### Validating Imports
+
+Anaconda can validate the imports in your files if the configuration option `validate_imports`
+is set to `true`.
+
+This feature is disabled by default.
+
+**Note**: Some times, the imports validation mechanism doesn't work too well
+with relative imports, because that, you can add `# noqa` at the end of an
+import that is mark as invalid if you are sure that anaconda is not handling
+well relative paths
+
 Anaconda linting
 ----------------
 
@@ -326,6 +388,7 @@ You can control the way that anaconda mark the error lines in your files adjusti
 
 If you don't want to show the red underline under the errors on the lines, you can set the `anaconda_linter_underlines` as false. Note that this option only takes effect when the `anaconda_linter_mark_style` is set to `none`.
 
+#### [Run Tests using Anaconda](https://github.com/DamnWidget/anaconda/wiki/Using-test-runner)
 
 #### [Linting theme customization](https://github.com/DamnWidget/anaconda/wiki/Linting-theme-customization)
 
@@ -369,12 +432,6 @@ Did you found a bug and you know how to fix it? First of all, thank you very muc
 #### Feature Implementor
 
 So you thougth about a new killer feature to implement in Anaconda?. Great!. Open an issue tagged as "Feature" and we will discuss it with you.
-
-#### ~~Mac OS X machine donator~~
-
-~~Do you have a Mac OS X box that you don't use anymore and its abandoned in a corner? Just send it to us, put yourself in contact with us and lets talk.~~
-
-**note**: this need has been already satisfied
 
 ### Donations
 

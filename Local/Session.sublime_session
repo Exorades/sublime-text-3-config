@@ -1,6 +1,21 @@
 {
 	"folder_history":
 	[
+		"/home/patryk/devel/zonza_auto/zonza-regression",
+		"/home/patryk/devel",
+		"/home/patryk/dev",
+		"/home/patryk/dev/jp-test-devpi",
+		"/home/patryk/dev/zonza/zonza-vidispine-contract",
+		"/home/patryk/Pobrane/xxx/zonza-vidispine-adapter-1.2.2.dev2",
+		"/home/patryk/dev/zonza",
+		"/home/patryk/dev/zonza/zonza",
+		"/home/patryk/zonza_auto",
+		"/home/patryk/dev/zonza/zonza-scripts",
+		"/home/patryk/dev/zonza/zonza-webapp-formula",
+		"/home/patryk/dev/exo_rms",
+		"/home/patryk/dev/exo_rms/rms",
+		"/home/patryk/dev/zonza/zonza-webapp-bork-formula",
+		"/home/patryk/devel/zonza2",
 		"/home/pawel/Development/ncl/utils",
 		"/home/pawel/Development/wdrozenia/presence-analyzer-lkolat/src",
 		"/home/pawel/Development/ki",
@@ -9,7 +24,7 @@
 		"/home/pawel/Development/ki/key-usergen"
 	],
 	"last_version": 3065,
-	"last_window_id": 16,
+	"last_window_id": 41,
 	"log_indexing": false,
 	"settings":
 	{
@@ -21,16 +36,36 @@
 				"selected_items":
 				[
 					[
+						"sto",
+						"storagebackendport"
+					],
+					[
+						"num",
+						"num3	statement"
+					],
+					[
+						"if",
+						"ifmain	if __name__ == '__main__'"
+					],
+					[
+						"sou",
+						"sources_list"
+					],
+					[
+						"so",
+						"source	forflow"
+					],
+					[
+						"set",
+						"set_trace	function"
+					],
+					[
 						"Te",
 						"TemplateTestMixin	class"
 					],
 					[
 						"assert",
 						"assertTagCount	function"
-					],
-					[
-						"so",
-						"soup	statement"
 					],
 					[
 						"cle",
@@ -141,9 +176,17 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 105.0,
+				"height": 315.0,
 				"selected_items":
 				[
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
 					[
 						"vme",
 						"View: Toggle Menu"
@@ -185,121 +228,197 @@
 			},
 			"file_history":
 			[
-				"/home/pawel/Development/ki/keysocial/lib/testing.py",
-				"/home/pawel/Development/ki/key-auth/api/views/v2.py",
-				"/home/pawel/Development/ki/keysocial/tests/test_blog.py",
-				"/home/pawel/Development/ki/keysocial/blog/views.py",
-				"/home/pawel/Development/ki/keysocial/proxy/handlers.py",
-				"/usr/lib/python2.7/unittest/case.py",
-				"/home/pawel/Development/ki/keysocial/ki/shared/testing/testcases.py",
-				"/home/pawel/Development/ki/keysocial/ki/tests/__init__.py",
-				"/home/pawel/Development/ki/keysocial/ki/tests/test_tools.py",
-				"/home/pawel/Development/ki/keysocial/ki/tests/test_utils.py",
-				"/home/pawel/Development/ki/keysocial/tests/__init__.py",
-				"/home/pawel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/pawel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/pawel/Development/ki/keysocial/ki/shared/testing/__init__.py",
-				"/home/pawel/Development/ki/keysocial/blog/urls.py",
-				"/home/pawel/Development/ki/keysocial/buildout.cfg",
-				"/home/pawel/Development/ki/keysocial/.eggs/beautifulsoup4-4.3.2-py2.7.egg/bs4/element.py",
-				"/home/pawel/Development/ki/key-auth/core/models.py",
-				"/home/pawel/Development/ki/key-auth/api/views/v1.py",
-				"/home/pawel/Development/ki/keysocial/ki/services/__init__.py",
-				"/home/pawel/Development/ki/keysocial/ki/services/accounts.py",
-				"/home/pawel/Development/ki/keysocial/ki/services/messages.py",
-				"/home/pawel/Development/ki/keysocial/ki/webapp/utils.py",
-				"/home/pawel/Development/ki/keysocial/ki/ext/bs4/element.py",
-				"/home/pawel/Development/ki/keysocial/ki/ext/bs4/__init__.py",
-				"/home/pawel/Development/ki/keysocial/ki/ext/BeautifulSoup.py",
-				"/home/pawel/Development/ki/keysocial/ki/ext/__init__.py",
-				"/home/pawel/Development/ki/keysocial/app.yaml",
-				"/home/pawel/Development/ki/keysocial/welcome/urls.py",
-				"/home/pawel/Development/ki/keysocial/main.py",
-				"/home/pawel/Development/ki/key-auth/ki/shared/utils.py",
-				"/home/pawel/Development/ki/key-auth/ki/services/payments/payments.py",
-				"/home/pawel/Development/ki/key-auth/ki/services/messages.py",
-				"/home/pawel/Development/ki/key-auth/main.py",
-				"/home/pawel/Development/ki/key-auth/core/views/oauth.py",
-				"/home/pawel/Development/ki/key-auth/ki/tests/test_payments.py",
-				"/home/pawel/Development/ki/keysocial/welcome/views.py",
-				"/home/pawel/Development/ki/keysocial/settings/shared.py",
-				"/home/pawel/Development/ki/key-auth/api/main.py",
-				"/home/pawel/Development/ki/key-auth/payments/processors/stripe.py",
-				"/home/pawel/Development/ki/key-auth/mapreduce.yaml",
-				"/home/pawel/Development/ki/key-auth/core/jobs.py",
-				"/home/pawel/Development/ki/key-auth/ki/tests/test_utils.py",
-				"/home/pawel/Development/ki/key-auth/core/utils.py",
-				"/home/pawel/Development/ki/key-auth/core/tasks.py",
-				"/home/pawel/Development/ki/key-auth/lib/oauth/tasks.py",
-				"/home/pawel/Development/ki/key-auth/lib/oauth/base.py",
-				"/home/pawel/Development/ki/key-auth/lib/oauth/twitter_provider.py",
-				"/home/pawel/.gitignore",
-				"/home/pawel/.gitconfig",
-				"/home/pawel/Development/ki/keysocial/appengine_config.py",
-				"/home/pawel/Development/ki/keysocial/.parts/google_appengine/lib/webapp2-2.5.2/webapp2.py",
-				"/home/pawel/Development/ki/keysocial/ki/webapp/handlers.py",
-				"/opt/python/2.7/lib/python2.7/markupbase.py",
-				"/usr/lib/python2.7/markupbase.py",
-				"/home/pawel/Development/ki/keysocial/tests/test_welcome.py",
-				"/home/pawel/Development/ki/keysocial/recipes/utils/__init__.py",
-				"/home/pawel/Development/ki/key-usergen/lib/testing.py",
-				"/home/pawel/Development/ki/key-usergen/apis/views/v1.py",
-				"/home/pawel/Development/ki/key-usergen/apis/utils.py",
-				"/home/pawel/Development/ki/keysocial/ki/services/recipes.py",
-				"/home/pawel/Development/ki/key-usergen/tests/test_recipes.py",
-				"/home/pawel/Development/ki/keysocial/tests/test_recipes.py",
-				"/home/pawel/.bashrc",
-				"/home/pawel/Development/ki/key-usergen/app.yaml",
-				"/home/pawel/Development/ki/keysocial/.git/modules/ki/COMMIT_EDITMSG",
-				"/home/pawel/Development/ki/key-usergen/.git/COMMIT_EDITMSG",
-				"/home/pawel/.remote_api_creds",
-				"/home/pawel/Development/ki/keysocial/ki/shared/fabric/__init__.py",
-				"/home/pawel/Development/ki/keysocial/ki/shared/fabric/utils.py",
-				"/home/pawel/Development/ki/keysocial/recipes/urls.py",
-				"/home/pawel/Development/ki/keysocial/recipes/views/main.py",
-				"/home/pawel/Development/ki/keysocial/templates/macros/recipe.html",
-				"/home/pawel/Development/ki/keysocial/templates/recipes/recipe.html",
-				"/home/pawel/Development/ki/keysocial/.git/COMMIT_EDITMSG",
-				"/home/pawel/Development/ki/keysocial/templates/modules/_top_recipes.html",
-				"/home/pawel/Development/ki/key-usergen/recipes/models.py",
-				"/home/pawel/Development/ki/keysocial/settings/local.py",
-				"/home/pawel/Development/ki/key-usergen/apis/main.py",
-				"/home/pawel/Development/ki/keysocial/templates/welcome/index.html",
-				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_sidebar.html",
-				"/home/pawel/Development/ki/keysocial/translation/locales.py",
-				"/home/pawel/Development/ki/key-usergen/lib/extra_settings/local.py",
-				"/home/pawel/Development/ki/keysocial/cms.py",
-				"/home/pawel/Development/ki/keysocial/settings/production.py",
-				"/home/pawel/Development/ki/keysocial/translation/sites.py",
-				"/home/pawel/Development/ki/keysocial/templates/welcome/ipad.html",
-				"/home/pawel/Development/ki/keysocial/recipes/utils/sharetags.py",
-				"/home/pawel/Development/ki/keysocial/tests/test_translation.py",
-				"/home/pawel/Development/ki/keysocial/recipes/views/misc.py",
-				"/home/pawel/Development/ki/keysocial/translation/middleware.py",
-				"/home/pawel/Development/ki/keysocial/lib/context.py",
-				"/home/pawel/Development/ki/keysocial/settings/local.py.example",
-				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_body.html",
-				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_social.html",
-				"/home/pawel/Development/ki/keysocial/htmlcov/recipes_views_main.html",
-				"/home/pawel/Development/ki/keysocial/lib/jinja/helpers.py",
-				"/home/pawel/Development/ki/keysocial/ki/shared/utils.py",
-				"/home/pawel/Development/ki/keysocial/recipes/__init__.py",
-				"/home/pawel/Development/ki/keysocial/settings/staging.py",
-				"/home/pawel/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
-				"/home/pawel/Development/ki/keysocial/etc/nginx.conf.in",
-				"/home/pawel/Development/ki/keysocial/vagrant_bootstrap.sh",
-				"/home/pawel/Development/ki/keysocial/fabfile.py",
-				"/home/pawel/.config/powerline-shell/powerline-shell.py"
+				"/home/patryk/dev/zonza/zonza-regression/src/zonzatest/feature/admin_can_create_metadata_field/features/admin_can_create_metadata_field.feature",
+				"/home/patryk/dev/zonza/zonza-regression/src/zonzatest/feature/admin_can_create_metadata_field/steps/admin_can_create_metadata_field.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zsites/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/ingest/tests/unit.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_api.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_forms.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_receivers.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_sharing.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_tasks.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_xmp.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item_orders/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/metadata/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/storage/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/tests/test_metadata_share_libraries.py",
+				"/home/patryk/dev/zonza/storage-backend-port/storage_backend_port.rst",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/setup.py",
+				"/home/patryk/dev/zonza/storage-backend-port/tox.ini",
+				"/home/patryk/dev/zonza/zonza-scripts/setup.py",
+				"/home/patryk/dev/zonza/zonza-config-automation/tox.ini",
+				"/home/patryk/dev/zonza/zonza-config-automation/setup.py",
+				"/home/patryk/dev/zonza/zonza-scripts/tox.ini",
+				"/home/patryk/dev/zonza/zonza-regression/README.rst",
+				"/home/patryk/dev/zonza/zonza-regression/zonza_regression_sdk.egg-info/SOURCES.txt",
+				"/home/patryk/dev/zonza/zonza-regression/setup.py",
+				"/home/patryk/dev/zonza/zonza-config-automation/src/zonza_automation/scripts.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/feature/admin_can_add_a_metadata_group_to_a_site/steps/admin_can_add_a_metadata_group_to_a_site.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/adapter/selenium/login.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/adapter/selenium/group/search.py",
+				"/home/patryk/dev/zonza/zonza-regression/requirements.txt",
+				"/home/patryk/dev/zonza/zonza/requirements/base.txt",
+				"/home/patryk/dev/zonza/zonza/portal/utils/templatetags/permissionrequired.py",
+				"/home/patryk/dev/zonza/zonza/portal/ports/instantiated.py",
+				"/home/patryk/dev/zonza/storage-backend-port/conf.py",
+				"/home/patryk/dev/zonza/storage-backend-port/setup.py",
+				"/home/patryk/dev/zonza/storage-backend-port/MANIFEST.in",
+				"/home/patryk/dev/zonza/zonza-regression/MANIFEST.in",
+				"/home/patryk/dev/zonza/zonza-vidispine-contract/setup.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/__init__.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/settings.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/sdk/admin/metadata_management.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/asset_dashboard/tests/test_api.py",
+				"/home/patryk/dev/zonza/storage-backend-port/README.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/src/storage_backend_port/port.py",
+				"/home/patryk/dev/zonza/zonza-automation/setup.py",
+				"/home/patryk/dev/zonza/storage-backend-port/index.rst",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/src/vidispine_adapter/adapter.py",
+				"/home/patryk/dev/zonza/zonza-automation/tox.ini",
+				"/home/patryk/dev/zonza/storage-backend-port/src/storage_backend_port/exception.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/adapter/selenium/admin/metadata_management.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/adapter/selenium/base.py",
+				"/home/patryk/dev/zonza/zonza-automation/src/automation/__init__.py",
+				"/home/patryk/dev/zonza/zonza-automation/README.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/example.rst",
+				"/home/patryk/dev/zonza/zonza-regression/install-zonza.sh",
+				"/home/patryk/dev/zonza/zonza-regression/run_all.sh",
+				"/home/patryk/dev/zonza/zonza-regression/run_distribute.sh",
+				"/home/patryk/dev/zonza/zonza-regression/run_manage.sh",
+				"/home/patryk/dev/zonza/zonza-regression/setup.cfg",
+				"/home/patryk/dev/zonza/zonza-automation/.gitignore",
+				"/home/patryk/dev/zonza/zonza-regression/run_all.py",
+				"/home/patryk/dev/zonza/storage-backend-port/src/tests/test_import_port.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/tox.ini",
+				"/home/patryk/dev/zonza/zonza/portal/settings/local/development.py",
+				"/home/patryk/dev/zonza/zonza-scripts/src/zonza_scripts/ingest/validation.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/.gitignore",
+				"/home/patryk/dev/zonza/zonza-regression/.coverage.stxnext-008.10333.739713",
+				"/home/patryk/dev/zonza/storage-backend-port/_build/text/index.txt",
+				"/home/patryk/dev/zonza/storage-backend-port/_build/text/README.txt",
+				"/home/patryk/dev/zonza/storage-backend-port/_build/text/HISTORY.txt",
+				"/home/patryk/dev/zonza/storage-backend-port/docs/conf.py",
+				"/home/patryk/dev/zonza/storage-backend-port/HISTORY.rst",
+				"/home/patryk/dev/jp-test-devpi/src/tests/test_main.py",
+				"/home/patryk/dev/zonza/storage-backend-port/.gitignore",
+				"/home/patryk/dev/zonza/storage-backend-port/src/storage_backend_port/vidispine.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-contract/MANIFEST.in",
+				"/home/patryk/dev/zonza/zonza-vidispine-contract/HISTORY.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/src/storage_backend_port/settings.py",
+				"/home/patryk/dev/zonza/storage-backend-port/README.md",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/README.rst",
+				"/home/patryk/dev/zonza/zonza/portal/settings/development.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/ingest/tests/test_posts.py",
+				"/home/patryk/dev/zonza/storage-backend-port/code.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/Makefile",
+				"/home/patryk/dev/zonza/storage-backend-port/src/source/masterdok.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/_build/html/sphinx.html",
+				"/home/patryk/dev/zonza/storage-backend-port/builddir/.doctrees/src/source/masterdok.doctree",
+				"/home/patryk/dev/zonza/storage-backend-port/sphinx.rst",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/ingest/tests/integration.py",
+				"/home/patryk/dev/zonza/storage-backend-port/builddir/sphinx.html",
+				"/home/patryk/dev/zonza/storage-backend-port/builddir/README.html",
+				"/home/patryk/dev/zonza/zonza-vidispine-contract/README.rst",
+				"/home/patryk/dev/zonza/zonza/portal/settings/base.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/sharing/views.py",
+				"/home/patryk/dev/jp-test-devpi/MANIFEST.in",
+				"/home/patryk/dev/jp-test-devpi/HISTORY.rst",
+				"/home/patryk/dev/jp-test-devpi/src/__init__.py",
+				"/home/patryk/dev/jp-test-devpi/src/jp/test_main.py",
+				"/home/patryk/dev/jp-test-devpi/src/jp/__init__.py",
+				"/home/patryk/dev/jp-test-devpi/setup.py",
+				"/home/patryk/dev/jp-test-devpi/src/tests/__init__.py",
+				"/home/patryk/dev/jp-test-devpi/README.rst",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/HISTORY.rst",
+				"/home/patryk/dev/jp-test-devpi/tox.ini",
+				"/home/patryk/dev/jp-test-devpi/.gitignore",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/tests/test_forms.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/tests/test_views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/tests/test_groups.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/tests/tests_metadata.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/views/groups.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/views/metadata.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zsites/utils.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/ingest/tests/test_supporting_files_tasks.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/MANIFEST.in",
+				"/home/patryk/dev/zonza/zonza-webapp-formula/dev/Vagrantfile",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/sharing/tests/test_acl_list.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/sharing/tests/tests_shares.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/src/tests/test_search_utils.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/orders/tests/test_signals.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/saml/tests/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/saml/views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/search/logic.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/search/tests/test_logic.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/search/tests/test_views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/search/views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/forms.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/logic.py"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
 				"height": 95.0,
 				"where_history":
 				[
+					"/home/patryk/dev/zonza/zonza/",
+					"/home/patryk/dev/zonza/zonza-regression/",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/zonza/zonza/portal",
+					"/home/patryk/dev/zonza/zonza/",
+					"/home/patryk/dev/zonza/zonza/portal/",
+					"~/dev/zonza/",
+					"/home/patryk/dev/zonza/zozna/",
+					"/home/patryk/dev/zonza/zozna/portal/",
+					"/home/patryk/dev/zonza/zozna/portal",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/zonza/zonza/",
+					"/home/patryk/dev/zonza/zonza/portal/",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/zonza/zonza/portal/portal_themes/",
+					"/home/patryk/dev/zonza/portal/portal_themes/",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/zonza/zonza-webapp-formula",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/filters.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/mixins.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_gmail.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/gmail.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/models.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_models.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/models",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/serializers.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/serializers.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_utils.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/utils.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_views.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/views/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_views.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/managment",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/fields",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_views.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms",
+					"/home/patryk/dev/exo_rms/rms/stxrms/",
+					"/home/patryk/dev/exo_rms/rms/",
+					"/home/pawel/.virtualenvs/",
 					"keysocial/*",
 					"key-auth/*",
 					"keysocial/*"
@@ -310,61 +429,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"oauth",
-					"lite",
-					"comment",
-					"self.contents",
-					"Comment",
-					"OauthInfo",
-					"signature-snap-bare-test",
-					"set_auth_coo",
-					"oauth",
-					"get_oauth_for_account",
-					"task_add_event",
-					"Comment",
-					"Tag",
-					"Comment",
-					"pdb",
-					"comm",
-					"<!-- te",
-					"<!",
-					"parse_comment",
-					"BeautifulSoupHTMLParser",
-					"self.so",
-					"slugify",
-					"<<<<<",
-					"recipes.views",
-					"get_recipe",
-					"def rev",
-					"to_pb_result",
-					"BaseBulkHandler",
-					"bulk",
-					"RecipeBulkTestCase",
-					"self.get_pb(",
-					"/api/v1/recipes/",
-					"/api/v1/recipes/\\\\b",
-					"/api/v1/recipes/\\b",
-					"/api/v1/recipes/",
-					"UsergenApiTest",
-					"get_pb",
-					"RecipeBulkHandler",
-					"/api/v1/recipes/",
-					"bulk",
-					"1343015032",
-					"mobile_picks",
-					"get_mobile_picks",
-					"top_pi",
-					"url",
-					"{% url",
-					" (",
-					"pinterest_description",
-					"recipes.views",
-					"core_image_url",
-					"recipe_url",
-					"fq_recipe_url",
-					"pinterest_image",
-					"new-social",
-					"print"
+					"storagebackendport.",
+					"storagebackendport",
+					"storagebackendport.\"",
+					"storagebackendport.'",
+					"storagebackendport",
+					"'portal.zonza.asset_dashboard.api.storagebackendport.'",
+					"log",
+					"from adapter",
+					"adapter",
+					"zonza-regression",
+					"Cell",
+					"sys",
+					"vidispineport",
+					"vidispinepo",
+					"head",
+					"vidispineport",
+					"vidispineportstoragebackendport",
+					"vidispineport",
+					"instantiated",
+					"VidispinePort",
+					"vidispineport",
+					"VidispinePort",
+					"vidispineport",
+					"VidispinePort",
+					"zonza_vidispine_contract",
+					"test_delivered_date_with_ambiguous_DST_time",
+					"<<<",
+					"vidispine_adapter",
+					"instantiated",
+					"vidispineport",
+					"<<<<",
+					"HEAD",
+					"Connection",
+					"settings",
+					"storagebackendport",
+					"vidispineport",
+					"VidispinePort",
+					"storage-backend-port",
+					"group-view-block-view",
+					"morris",
+					"groupsGraph",
+					"groups-graph-container",
+					"icon-hover-active.png",
+					"groups-graph-container",
+					"zonza-portal",
+					"groups-graph-container",
+					"first",
+					"celery",
+					"jnjBrandCountry",
+					"devpi",
+					"/zonza/zonza/+simple/zonza/+simple/",
+					"vidispine.py",
+					"adapter.py",
+					")\n",
+					"Search_assets",
+					"prepare_search",
+					"ZonzaRest",
+					".profile",
+					"vidi1-pp-zonza",
+					"share_expired",
+					"Expires in",
+					"supporting-files-pane",
+					"VIDISPINE_REPLACE_URLS",
+					"test_media_info_view",
+					"VIDISPINE_USERNAME",
+					"test_media_info_view",
+					"vidispine",
+					"requesthi",
+					"sls",
+					"requestshareemailadmin",
+					"itemmetadataformview",
+					"_region",
+					"mazda_region",
+					"development.py",
+					"subje",
+					"subject",
+					"EMAIL_HOST",
+					"subject",
+					"i18n",
+					"base-email",
+					"share_request_to_admin",
+					"The ZONZA Team.",
+					"mazda",
+					"#logged-out",
+					"/sitemedia/img/login/logo.png",
+					"mediab",
+					"username",
+					"#087dc2",
+					"portal_media",
+					"#087dc2",
+					"deluxe",
+					"setup_vidi_notifications",
+					"update_metadata",
+					"zonza_syncdb",
+					"update_metadata",
+					"deluxe.sls",
+					"zonza-webapp.deluxe",
+					"zonza_setup_vidi_notifications",
+					"update_metadata",
+					"zonza_setup_vidi_notifications",
+					"update_metadata",
+					"filters",
+					"rest_framework",
+					"Q\n",
+					"from django.db.models import Count, Q\n",
+					"Tests if statistics for applicants are correct",
+					"ApiStatisticsAmountsSerializer",
+					"field_default_style",
+					"ApplicantsFilterForm",
+					"filter_form",
+					"filterForm",
+					"ApiApplicants",
+					"ApplicantFilter",
+					"source_filter",
+					"CityFactory",
+					"recome",
+					"serializer_class",
+					"'blank'",
+					"blank",
+					"filterForm",
+					"form_filter",
+					"form_filters",
+					"form_filster",
+					"ApiStatisticsAmountsSerializer",
+					"serializer_class",
+					"recomendation_pk",
+					"ApplicantsFilterForm",
+					"filter_form"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -372,6 +564,33 @@
 				"regex": false,
 				"replace_history":
 				[
+					"storagebackendport.\\\n\"",
+					"storagebackendport\n\"",
+					"vidispineport\n\"",
+					"storagebackendport\n\"",
+					"\"\n\"",
+					"'\n\"",
+					"\"\n\"",
+					"\n\"",
+					"'",
+					"\n'",
+					"\n\"",
+					"\n'",
+					"\n\"",
+					"'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"\n'",
+					"\n\"",
+					"'",
 					"    (",
 					""
 				],
@@ -383,20 +602,24 @@
 			},
 			"incremental_find":
 			{
-				"height": 24.0
+				"height": 27.0
 			},
 			"input":
 			{
 				"height": 34.0
 			},
-			"menu_visible": false,
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 0.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"replace":
 			{
-				"height": 44.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -417,17 +640,21 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 63.0,
 				"selected_items":
 				[
+					[
+						"date_translation",
+						"test_update_does_translation"
+					]
 				],
-				"width": 0.0
+				"width": 654.0
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 297.0,
+			"side_bar_width": 400.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -443,16 +670,36 @@
 				"selected_items":
 				[
 					[
+						"sto",
+						"storagebackendport"
+					],
+					[
+						"num",
+						"num3	statement"
+					],
+					[
+						"if",
+						"ifmain	if __name__ == '__main__'"
+					],
+					[
+						"sou",
+						"sources_list"
+					],
+					[
+						"so",
+						"source	forflow"
+					],
+					[
+						"set",
+						"set_trace	function"
+					],
+					[
 						"Te",
 						"TemplateTestMixin	class"
 					],
 					[
 						"assert",
 						"assertTagCount	function"
-					],
-					[
-						"so",
-						"soup	statement"
 					],
 					[
 						"cle",
@@ -562,13 +809,101 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/asset_dashboard/tests/test_api.py",
+					"settings":
+					{
+						"buffer_size": 49651,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_api.py",
+					"settings":
+					{
+						"buffer_size": 28490,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_forms.py",
+					"settings":
+					{
+						"buffer_size": 23616,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_receivers.py",
+					"settings":
+					{
+						"buffer_size": 5900,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_sharing.py",
+					"settings":
+					{
+						"buffer_size": 8396,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_tasks.py",
+					"settings":
+					{
+						"buffer_size": 21881,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_xmp.py",
+					"settings":
+					{
+						"buffer_size": 10703,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/tests.py",
+					"settings":
+					{
+						"buffer_size": 169841,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/metadata/tests.py",
+					"settings":
+					{
+						"buffer_size": 37097,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/tests/test_metadata_share_libraries.py",
+					"settings":
+					{
+						"buffer_size": 16448,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 105.0,
+				"height": 315.0,
 				"selected_items":
 				[
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
 					[
 						"vme",
 						"View: Toggle Menu"
@@ -610,130 +945,199 @@
 			},
 			"expanded_folders":
 			[
-				"/home/pawel/Development/ncl/utils"
 			],
 			"file_history":
 			[
-				"/home/pawel/Development/ncl/utils/test.html",
-				"/home/pawel/.virtualenvs/ncl-utils/lib/python2.7/site-packages/xhtml2pdf/context.py",
-				"/home/pawel/.virtualenvs/ncl-utils/lib/python2.7/site-packages/xhtml2pdf/document.py",
-				"/home/pawel/.virtualenvs/ncl-utils/lib/python2.7/site-packages/xhtml2pdf/pisa.py",
-				"/home/pawel/Development/ncl/utils/conv.py",
-				"/home/pawel/Development/ki/keysocial/lib/testing.py",
-				"/home/pawel/Development/ki/key-auth/api/views/v2.py",
-				"/home/pawel/Development/ki/keysocial/tests/test_blog.py",
-				"/home/pawel/Development/ki/keysocial/blog/views.py",
-				"/home/pawel/Development/ki/keysocial/proxy/handlers.py",
-				"/usr/lib/python2.7/unittest/case.py",
-				"/home/pawel/Development/ki/keysocial/ki/shared/testing/testcases.py",
-				"/home/pawel/Development/ki/keysocial/ki/tests/__init__.py",
-				"/home/pawel/Development/ki/keysocial/ki/tests/test_tools.py",
-				"/home/pawel/Development/ki/keysocial/ki/tests/test_utils.py",
-				"/home/pawel/Development/ki/keysocial/tests/__init__.py",
-				"/home/pawel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/pawel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/pawel/Development/ki/keysocial/ki/shared/testing/__init__.py",
-				"/home/pawel/Development/ki/keysocial/blog/urls.py",
-				"/home/pawel/Development/ki/keysocial/buildout.cfg",
-				"/home/pawel/Development/ki/keysocial/.eggs/beautifulsoup4-4.3.2-py2.7.egg/bs4/element.py",
-				"/home/pawel/Development/ki/key-auth/core/models.py",
-				"/home/pawel/Development/ki/key-auth/api/views/v1.py",
-				"/home/pawel/Development/ki/keysocial/ki/services/__init__.py",
-				"/home/pawel/Development/ki/keysocial/ki/services/accounts.py",
-				"/home/pawel/Development/ki/keysocial/ki/services/messages.py",
-				"/home/pawel/Development/ki/keysocial/ki/webapp/utils.py",
-				"/home/pawel/Development/ki/keysocial/ki/ext/bs4/element.py",
-				"/home/pawel/Development/ki/keysocial/ki/ext/bs4/__init__.py",
-				"/home/pawel/Development/ki/keysocial/ki/ext/BeautifulSoup.py",
-				"/home/pawel/Development/ki/keysocial/ki/ext/__init__.py",
-				"/home/pawel/Development/ki/keysocial/app.yaml",
-				"/home/pawel/Development/ki/keysocial/welcome/urls.py",
-				"/home/pawel/Development/ki/keysocial/main.py",
-				"/home/pawel/Development/ki/key-auth/ki/shared/utils.py",
-				"/home/pawel/Development/ki/key-auth/ki/services/payments/payments.py",
-				"/home/pawel/Development/ki/key-auth/ki/services/messages.py",
-				"/home/pawel/Development/ki/key-auth/main.py",
-				"/home/pawel/Development/ki/key-auth/core/views/oauth.py",
-				"/home/pawel/Development/ki/key-auth/ki/tests/test_payments.py",
-				"/home/pawel/Development/ki/keysocial/welcome/views.py",
-				"/home/pawel/Development/ki/keysocial/settings/shared.py",
-				"/home/pawel/Development/ki/key-auth/api/main.py",
-				"/home/pawel/Development/ki/key-auth/payments/processors/stripe.py",
-				"/home/pawel/Development/ki/key-auth/mapreduce.yaml",
-				"/home/pawel/Development/ki/key-auth/core/jobs.py",
-				"/home/pawel/Development/ki/key-auth/ki/tests/test_utils.py",
-				"/home/pawel/Development/ki/key-auth/core/utils.py",
-				"/home/pawel/Development/ki/key-auth/core/tasks.py",
-				"/home/pawel/Development/ki/key-auth/lib/oauth/tasks.py",
-				"/home/pawel/Development/ki/key-auth/lib/oauth/base.py",
-				"/home/pawel/Development/ki/key-auth/lib/oauth/twitter_provider.py",
-				"/home/pawel/.gitignore",
-				"/home/pawel/.gitconfig",
-				"/home/pawel/Development/ki/keysocial/appengine_config.py",
-				"/home/pawel/Development/ki/keysocial/.parts/google_appengine/lib/webapp2-2.5.2/webapp2.py",
-				"/home/pawel/Development/ki/keysocial/ki/webapp/handlers.py",
-				"/opt/python/2.7/lib/python2.7/markupbase.py",
-				"/usr/lib/python2.7/markupbase.py",
-				"/home/pawel/Development/ki/keysocial/tests/test_welcome.py",
-				"/home/pawel/Development/ki/keysocial/recipes/utils/__init__.py",
-				"/home/pawel/Development/ki/key-usergen/lib/testing.py",
-				"/home/pawel/Development/ki/key-usergen/apis/views/v1.py",
-				"/home/pawel/Development/ki/key-usergen/apis/utils.py",
-				"/home/pawel/Development/ki/keysocial/ki/services/recipes.py",
-				"/home/pawel/Development/ki/key-usergen/tests/test_recipes.py",
-				"/home/pawel/Development/ki/keysocial/tests/test_recipes.py",
-				"/home/pawel/.bashrc",
-				"/home/pawel/Development/ki/key-usergen/app.yaml",
-				"/home/pawel/Development/ki/keysocial/.git/modules/ki/COMMIT_EDITMSG",
-				"/home/pawel/Development/ki/key-usergen/.git/COMMIT_EDITMSG",
-				"/home/pawel/.remote_api_creds",
-				"/home/pawel/Development/ki/keysocial/ki/shared/fabric/__init__.py",
-				"/home/pawel/Development/ki/keysocial/ki/shared/fabric/utils.py",
-				"/home/pawel/Development/ki/keysocial/recipes/urls.py",
-				"/home/pawel/Development/ki/keysocial/recipes/views/main.py",
-				"/home/pawel/Development/ki/keysocial/templates/macros/recipe.html",
-				"/home/pawel/Development/ki/keysocial/templates/recipes/recipe.html",
-				"/home/pawel/Development/ki/keysocial/.git/COMMIT_EDITMSG",
-				"/home/pawel/Development/ki/keysocial/templates/modules/_top_recipes.html",
-				"/home/pawel/Development/ki/key-usergen/recipes/models.py",
-				"/home/pawel/Development/ki/keysocial/settings/local.py",
-				"/home/pawel/Development/ki/key-usergen/apis/main.py",
-				"/home/pawel/Development/ki/keysocial/templates/welcome/index.html",
-				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_sidebar.html",
-				"/home/pawel/Development/ki/keysocial/translation/locales.py",
-				"/home/pawel/Development/ki/key-usergen/lib/extra_settings/local.py",
-				"/home/pawel/Development/ki/keysocial/cms.py",
-				"/home/pawel/Development/ki/keysocial/settings/production.py",
-				"/home/pawel/Development/ki/keysocial/translation/sites.py",
-				"/home/pawel/Development/ki/keysocial/templates/welcome/ipad.html",
-				"/home/pawel/Development/ki/keysocial/recipes/utils/sharetags.py",
-				"/home/pawel/Development/ki/keysocial/tests/test_translation.py",
-				"/home/pawel/Development/ki/keysocial/recipes/views/misc.py",
-				"/home/pawel/Development/ki/keysocial/translation/middleware.py",
-				"/home/pawel/Development/ki/keysocial/lib/context.py",
-				"/home/pawel/Development/ki/keysocial/settings/local.py.example",
-				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_body.html",
-				"/home/pawel/Development/ki/keysocial/templates/recipes/_recipe_social.html",
-				"/home/pawel/Development/ki/keysocial/htmlcov/recipes_views_main.html",
-				"/home/pawel/Development/ki/keysocial/lib/jinja/helpers.py",
-				"/home/pawel/Development/ki/keysocial/ki/shared/utils.py",
-				"/home/pawel/Development/ki/keysocial/recipes/__init__.py",
-				"/home/pawel/Development/ki/keysocial/settings/staging.py",
-				"/home/pawel/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
-				"/home/pawel/Development/ki/keysocial/etc/nginx.conf.in",
-				"/home/pawel/Development/ki/keysocial/vagrant_bootstrap.sh",
-				"/home/pawel/Development/ki/keysocial/fabfile.py",
-				"/home/pawel/.config/powerline-shell/powerline-shell.py"
+				"/home/patryk/dev/zonza/zonza-regression/src/zonzatest/feature/admin_can_create_metadata_field/features/admin_can_create_metadata_field.feature",
+				"/home/patryk/dev/zonza/zonza-regression/src/zonzatest/feature/admin_can_create_metadata_field/steps/admin_can_create_metadata_field.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zsites/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/ingest/tests/unit.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_api.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_forms.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_receivers.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_sharing.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_tasks.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_xmp.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/item_orders/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/metadata/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/storage/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/tests/test_metadata_share_libraries.py",
+				"/home/patryk/dev/zonza/storage-backend-port/storage_backend_port.rst",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/setup.py",
+				"/home/patryk/dev/zonza/storage-backend-port/tox.ini",
+				"/home/patryk/dev/zonza/zonza-scripts/setup.py",
+				"/home/patryk/dev/zonza/zonza-config-automation/tox.ini",
+				"/home/patryk/dev/zonza/zonza-config-automation/setup.py",
+				"/home/patryk/dev/zonza/zonza-scripts/tox.ini",
+				"/home/patryk/dev/zonza/zonza-regression/README.rst",
+				"/home/patryk/dev/zonza/zonza-regression/zonza_regression_sdk.egg-info/SOURCES.txt",
+				"/home/patryk/dev/zonza/zonza-regression/setup.py",
+				"/home/patryk/dev/zonza/zonza-config-automation/src/zonza_automation/scripts.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/feature/admin_can_add_a_metadata_group_to_a_site/steps/admin_can_add_a_metadata_group_to_a_site.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/adapter/selenium/login.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/adapter/selenium/group/search.py",
+				"/home/patryk/dev/zonza/zonza-regression/requirements.txt",
+				"/home/patryk/dev/zonza/zonza/requirements/base.txt",
+				"/home/patryk/dev/zonza/zonza/portal/utils/templatetags/permissionrequired.py",
+				"/home/patryk/dev/zonza/zonza/portal/ports/instantiated.py",
+				"/home/patryk/dev/zonza/storage-backend-port/conf.py",
+				"/home/patryk/dev/zonza/storage-backend-port/setup.py",
+				"/home/patryk/dev/zonza/storage-backend-port/MANIFEST.in",
+				"/home/patryk/dev/zonza/zonza-regression/MANIFEST.in",
+				"/home/patryk/dev/zonza/zonza-vidispine-contract/setup.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/__init__.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/settings.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/sdk/admin/metadata_management.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/asset_dashboard/tests/test_api.py",
+				"/home/patryk/dev/zonza/storage-backend-port/README.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/src/storage_backend_port/port.py",
+				"/home/patryk/dev/zonza/zonza-automation/setup.py",
+				"/home/patryk/dev/zonza/storage-backend-port/index.rst",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/src/vidispine_adapter/adapter.py",
+				"/home/patryk/dev/zonza/zonza-automation/tox.ini",
+				"/home/patryk/dev/zonza/storage-backend-port/src/storage_backend_port/exception.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/adapter/selenium/admin/metadata_management.py",
+				"/home/patryk/dev/zonza/zonza-regression/zonzatest/adapter/selenium/base.py",
+				"/home/patryk/dev/zonza/zonza-automation/src/automation/__init__.py",
+				"/home/patryk/dev/zonza/zonza-automation/README.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/example.rst",
+				"/home/patryk/dev/zonza/zonza-regression/install-zonza.sh",
+				"/home/patryk/dev/zonza/zonza-regression/run_all.sh",
+				"/home/patryk/dev/zonza/zonza-regression/run_distribute.sh",
+				"/home/patryk/dev/zonza/zonza-regression/run_manage.sh",
+				"/home/patryk/dev/zonza/zonza-regression/setup.cfg",
+				"/home/patryk/dev/zonza/zonza-automation/.gitignore",
+				"/home/patryk/dev/zonza/zonza-regression/run_all.py",
+				"/home/patryk/dev/zonza/storage-backend-port/src/tests/test_import_port.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/tox.ini",
+				"/home/patryk/dev/zonza/zonza/portal/settings/local/development.py",
+				"/home/patryk/dev/zonza/zonza-scripts/src/zonza_scripts/ingest/validation.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/.gitignore",
+				"/home/patryk/dev/zonza/zonza-regression/.coverage.stxnext-008.10333.739713",
+				"/home/patryk/dev/zonza/storage-backend-port/_build/text/index.txt",
+				"/home/patryk/dev/zonza/storage-backend-port/_build/text/README.txt",
+				"/home/patryk/dev/zonza/storage-backend-port/_build/text/HISTORY.txt",
+				"/home/patryk/dev/zonza/storage-backend-port/docs/conf.py",
+				"/home/patryk/dev/zonza/storage-backend-port/HISTORY.rst",
+				"/home/patryk/dev/jp-test-devpi/src/tests/test_main.py",
+				"/home/patryk/dev/zonza/storage-backend-port/.gitignore",
+				"/home/patryk/dev/zonza/storage-backend-port/src/storage_backend_port/vidispine.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-contract/MANIFEST.in",
+				"/home/patryk/dev/zonza/zonza-vidispine-contract/HISTORY.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/src/storage_backend_port/settings.py",
+				"/home/patryk/dev/zonza/storage-backend-port/README.md",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/README.rst",
+				"/home/patryk/dev/zonza/zonza/portal/settings/development.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/ingest/tests/test_posts.py",
+				"/home/patryk/dev/zonza/storage-backend-port/code.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/Makefile",
+				"/home/patryk/dev/zonza/storage-backend-port/src/source/masterdok.rst",
+				"/home/patryk/dev/zonza/storage-backend-port/_build/html/sphinx.html",
+				"/home/patryk/dev/zonza/storage-backend-port/builddir/.doctrees/src/source/masterdok.doctree",
+				"/home/patryk/dev/zonza/storage-backend-port/sphinx.rst",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/ingest/tests/integration.py",
+				"/home/patryk/dev/zonza/storage-backend-port/builddir/sphinx.html",
+				"/home/patryk/dev/zonza/storage-backend-port/builddir/README.html",
+				"/home/patryk/dev/zonza/zonza-vidispine-contract/README.rst",
+				"/home/patryk/dev/zonza/zonza/portal/settings/base.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/sharing/views.py",
+				"/home/patryk/dev/jp-test-devpi/MANIFEST.in",
+				"/home/patryk/dev/jp-test-devpi/HISTORY.rst",
+				"/home/patryk/dev/jp-test-devpi/src/__init__.py",
+				"/home/patryk/dev/jp-test-devpi/src/jp/test_main.py",
+				"/home/patryk/dev/jp-test-devpi/src/jp/__init__.py",
+				"/home/patryk/dev/jp-test-devpi/setup.py",
+				"/home/patryk/dev/jp-test-devpi/src/tests/__init__.py",
+				"/home/patryk/dev/jp-test-devpi/README.rst",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/HISTORY.rst",
+				"/home/patryk/dev/jp-test-devpi/tox.ini",
+				"/home/patryk/dev/jp-test-devpi/.gitignore",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/tests/test_forms.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/tests/test_views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/tests/test_groups.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/tests/tests_metadata.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/views/groups.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/views/metadata.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/zsites/utils.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/ingest/tests/test_supporting_files_tasks.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/MANIFEST.in",
+				"/home/patryk/dev/zonza/zonza-webapp-formula/dev/Vagrantfile",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/sharing/tests/test_acl_list.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/sharing/tests/tests_shares.py",
+				"/home/patryk/dev/zonza/zonza-vidispine-adapter/src/tests/test_search_utils.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/orders/tests/test_signals.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/saml/tests/tests.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/saml/views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/search/logic.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/search/tests/test_logic.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/search/tests/test_views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/search/views.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/forms.py",
+				"/home/patryk/dev/zonza/zonza/portal/zonza/set/logic.py"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
 				"height": 95.0,
 				"where_history":
 				[
+					"/home/patryk/dev/zonza/zonza/",
+					"/home/patryk/dev/zonza/zonza-regression/",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/zonza/zonza/portal",
+					"/home/patryk/dev/zonza/zonza/",
+					"/home/patryk/dev/zonza/zonza/portal/",
+					"~/dev/zonza/",
+					"/home/patryk/dev/zonza/zozna/",
+					"/home/patryk/dev/zonza/zozna/portal/",
+					"/home/patryk/dev/zonza/zozna/portal",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/zonza/zonza/",
+					"/home/patryk/dev/zonza/zonza/portal/",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/zonza/zonza/portal/portal_themes/",
+					"/home/patryk/dev/zonza/portal/portal_themes/",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/zonza/zonza-webapp-formula",
+					"/home/patryk/dev/zonza/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/filters.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/mixins.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_gmail.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/gmail.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/models.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_models.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/models",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/serializers.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/serializers.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_utils.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/utils.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_views.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/views/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_views.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/managment",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/fields",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_forms.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms/tests/test_views.py",
+					"/home/patryk/dev/exo_rms/rms/stxrms/rms",
+					"/home/patryk/dev/exo_rms/rms/stxrms/",
+					"/home/patryk/dev/exo_rms/rms/",
 					"/home/pawel/.virtualenvs/",
 					"keysocial/*",
 					"key-auth/*",
@@ -745,63 +1149,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"CreatePDF",
-					"convertHtmlToPdf",
-					"oauth",
-					"lite",
-					"comment",
-					"self.contents",
-					"Comment",
-					"OauthInfo",
-					"signature-snap-bare-test",
-					"set_auth_coo",
-					"oauth",
-					"get_oauth_for_account",
-					"task_add_event",
-					"Comment",
-					"Tag",
-					"Comment",
-					"pdb",
-					"comm",
-					"<!-- te",
-					"<!",
-					"parse_comment",
-					"BeautifulSoupHTMLParser",
-					"self.so",
-					"slugify",
-					"<<<<<",
-					"recipes.views",
-					"get_recipe",
-					"def rev",
-					"to_pb_result",
-					"BaseBulkHandler",
-					"bulk",
-					"RecipeBulkTestCase",
-					"self.get_pb(",
-					"/api/v1/recipes/",
-					"/api/v1/recipes/\\\\b",
-					"/api/v1/recipes/\\b",
-					"/api/v1/recipes/",
-					"UsergenApiTest",
-					"get_pb",
-					"RecipeBulkHandler",
-					"/api/v1/recipes/",
-					"bulk",
-					"1343015032",
-					"mobile_picks",
-					"get_mobile_picks",
-					"top_pi",
-					"url",
-					"{% url",
-					" (",
-					"pinterest_description",
-					"recipes.views",
-					"core_image_url",
-					"recipe_url",
-					"fq_recipe_url",
-					"pinterest_image",
-					"new-social",
-					"print"
+					"storagebackendport.",
+					"storagebackendport",
+					"storagebackendport.\"",
+					"storagebackendport.'",
+					"storagebackendport",
+					"'portal.zonza.asset_dashboard.api.storagebackendport.'",
+					"log",
+					"from adapter",
+					"adapter",
+					"zonza-regression",
+					"Cell",
+					"sys",
+					"vidispineport",
+					"vidispinepo",
+					"head",
+					"vidispineport",
+					"vidispineportstoragebackendport",
+					"vidispineport",
+					"instantiated",
+					"VidispinePort",
+					"vidispineport",
+					"VidispinePort",
+					"vidispineport",
+					"VidispinePort",
+					"zonza_vidispine_contract",
+					"test_delivered_date_with_ambiguous_DST_time",
+					"<<<",
+					"vidispine_adapter",
+					"instantiated",
+					"vidispineport",
+					"<<<<",
+					"HEAD",
+					"Connection",
+					"settings",
+					"storagebackendport",
+					"vidispineport",
+					"VidispinePort",
+					"storage-backend-port",
+					"group-view-block-view",
+					"morris",
+					"groupsGraph",
+					"groups-graph-container",
+					"icon-hover-active.png",
+					"groups-graph-container",
+					"zonza-portal",
+					"groups-graph-container",
+					"first",
+					"celery",
+					"jnjBrandCountry",
+					"devpi",
+					"/zonza/zonza/+simple/zonza/+simple/",
+					"vidispine.py",
+					"adapter.py",
+					")\n",
+					"Search_assets",
+					"prepare_search",
+					"ZonzaRest",
+					".profile",
+					"vidi1-pp-zonza",
+					"share_expired",
+					"Expires in",
+					"supporting-files-pane",
+					"VIDISPINE_REPLACE_URLS",
+					"test_media_info_view",
+					"VIDISPINE_USERNAME",
+					"test_media_info_view",
+					"vidispine",
+					"requesthi",
+					"sls",
+					"requestshareemailadmin",
+					"itemmetadataformview",
+					"_region",
+					"mazda_region",
+					"development.py",
+					"subje",
+					"subject",
+					"EMAIL_HOST",
+					"subject",
+					"i18n",
+					"base-email",
+					"share_request_to_admin",
+					"The ZONZA Team.",
+					"mazda",
+					"#logged-out",
+					"/sitemedia/img/login/logo.png",
+					"mediab",
+					"username",
+					"#087dc2",
+					"portal_media",
+					"#087dc2",
+					"deluxe",
+					"setup_vidi_notifications",
+					"update_metadata",
+					"zonza_syncdb",
+					"update_metadata",
+					"deluxe.sls",
+					"zonza-webapp.deluxe",
+					"zonza_setup_vidi_notifications",
+					"update_metadata",
+					"zonza_setup_vidi_notifications",
+					"update_metadata",
+					"filters",
+					"rest_framework",
+					"Q\n",
+					"from django.db.models import Count, Q\n",
+					"Tests if statistics for applicants are correct",
+					"ApiStatisticsAmountsSerializer",
+					"field_default_style",
+					"ApplicantsFilterForm",
+					"filter_form",
+					"filterForm",
+					"ApiApplicants",
+					"ApplicantFilter",
+					"source_filter",
+					"CityFactory",
+					"recome",
+					"serializer_class",
+					"'blank'",
+					"blank",
+					"filterForm",
+					"form_filter",
+					"form_filters",
+					"form_filster",
+					"ApiStatisticsAmountsSerializer",
+					"serializer_class",
+					"recomendation_pk",
+					"ApplicantsFilterForm",
+					"filter_form"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -809,6 +1284,33 @@
 				"regex": false,
 				"replace_history":
 				[
+					"storagebackendport.\\\n\"",
+					"storagebackendport\n\"",
+					"vidispineport\n\"",
+					"storagebackendport\n\"",
+					"\"\n\"",
+					"'\n\"",
+					"\"\n\"",
+					"\n\"",
+					"'",
+					"\n'",
+					"\n\"",
+					"\n'",
+					"\n\"",
+					"'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"\n'",
+					"\n\"",
+					"'",
 					"    (",
 					""
 				],
@@ -822,20 +1324,329 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/home/pawel/Development/ncl/utils"
+					"path": "/home/patryk/dev/zonza"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/patryk/Pobrane/xxx/zonza-vidispine-adapter-1.2.2.dev2"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/patryk/dev/jp-test-devpi"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/asset_dashboard/tests/test_api.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 49651,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										38480,
+										38480
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 27827.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_api.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28490,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										20911,
+										20911
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 16479.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_forms.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23616,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21898,
+										21898
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 12426.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_receivers.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5900,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4696,
+										4696
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2451.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_sharing.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8396,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3712,
+										3712
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3933.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_tasks.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21881,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19554,
+										19554
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 11020.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/test_xmp.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10703,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										709,
+										709
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5301.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/item/tests/tests.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 169841,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										146770,
+										146770
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 81338.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/metadata/tests.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 37097,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32303,
+										32303
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 17404.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/patryk/dev/zonza/zonza/portal/zonza/zonzaadmin/tests/test_metadata_share_libraries.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16448,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4077,
+										4077
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -863,16 +1674,20 @@
 					1.0
 				]
 			},
-			"menu_visible": false,
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 0.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,863,27,1503,507,3840,1200",
+			"position": "0,1,0,0,0,2759,0,3335,432,3840,1200",
 			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -893,11 +1708,15 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 63.0,
 				"selected_items":
 				[
+					[
+						"date_translation",
+						"test_update_does_translation"
+					]
 				],
-				"width": 0.0
+				"width": 654.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -907,12 +1726,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 297.0,
+			"side_bar_width": 400.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 16,
+			"window_id": 35,
 			"workspace_name": ""
 		}
 	],
