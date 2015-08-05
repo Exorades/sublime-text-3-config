@@ -1,0 +1,50 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+	"draw_minimap_border": true,
+	"enable_telemetry": true,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__pycache__"
+	],
+	"font_face": "ubuntu mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"margin": 0,
+	"preview_on_click": true,
+	"rulers":
+	[
+		79
+	],
+	"shift_tab_unindent": true,
+	"show_panel_on_build": false,
+	"tabs_small": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 80
+}

@@ -1,0 +1,2928 @@
+{
+	"folder_history":
+	[
+		"/home/exo/wdev/zonza-environment-builder",
+		"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest",
+		"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts",
+		"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom",
+		"/home/exo/wdev/zonza-environment-builder/code/zonza",
+		"/home/exo/pdev/flask",
+		"/home/exo/pdev",
+		"/home/exo/pdev/flask/app",
+		"/home/exo/wdev/zonza-environment-builder/code",
+		"/home/exo/wdev/zonza-environment-builder/code/vidisdk_generator",
+		"/home/exo/pdev/savedparadise",
+		"/home/exo/pdev/exoblogdjango/qblog",
+		"/home/exo/pdev/exoblogdjango",
+		"/home/exo/wdev/zonza-environment-builder/templates",
+		"/home/exo/wdev/zonza-environment-builder/settings",
+		"/home/exo/wdev/zonza-environment-builder/packages",
+		"/home/exo/wdev/zonza-environment-builder/files",
+		"/home/exo/pelican-themes",
+		"/home/exo/pdev/exoblog",
+		"/home/exo/pdev/blog",
+		"/home/exo/pdev/wagtaildemo",
+		"/home/kuba/Development/zonza-environment-builder"
+	],
+	"last_version": 3083,
+	"last_window_id": 51,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"render_template"
+					],
+					[
+						"dele",
+						"deleted_act	statement"
+					],
+					[
+						"ass",
+						"asset_search	statement"
+					],
+					[
+						"asset_",
+						"asset_id"
+					],
+					[
+						"lo",
+						"logging	module"
+					],
+					[
+						"test",
+						"test_defaults"
+					],
+					[
+						"set",
+						"settings"
+					],
+					[
+						"ingest",
+						"ingest_folder"
+					],
+					[
+						"inges",
+						"ingest_folder"
+					],
+					[
+						"ftp",
+						"ftp_path"
+					],
+					[
+						"get",
+						"get_string"
+					],
+					[
+						"sto",
+						"storageport"
+					],
+					[
+						"mock",
+						"mock_get_group	param"
+					],
+					[
+						"file",
+						"filepath"
+					],
+					[
+						"meta",
+						"metadata_prefix"
+					],
+					[
+						"Te",
+						"TestIngestSettings	import"
+					],
+					[
+						"TE",
+						"TestIngestSettings	import"
+					],
+					[
+						"def",
+						"defaults	module"
+					],
+					[
+						"ge",
+						"get_string"
+					],
+					[
+						"dj",
+						"dj_vidispine_url"
+					],
+					[
+						"ou",
+						"outdated_only"
+					],
+					[
+						"e",
+						"expect"
+					],
+					[
+						"gro",
+						"group_label"
+					],
+					[
+						"supp",
+						"supporting_files	param"
+					],
+					[
+						"item",
+						"item_metadata	statement"
+					],
+					[
+						"group",
+						"group_name"
+					],
+					[
+						"inge",
+						"ingest_user	statement"
+					],
+					[
+						"non",
+						"non-existing-child"
+					],
+					[
+						"expected",
+						"expected_fields	statement"
+					],
+					[
+						"exc",
+						"expected_checkbox"
+					],
+					[
+						"K",
+						"KeyError	class"
+					],
+					[
+						"sp",
+						"sp_metadata	statement"
+					],
+					[
+						"gr",
+						"group_name"
+					],
+					[
+						"asset",
+						"asset_id"
+					],
+					[
+						"imp",
+						"import_settings	statement"
+					],
+					[
+						"odr",
+						"orderedContent"
+					],
+					[
+						"stp",
+						"storageport	import"
+					],
+					[
+						"res",
+						"response	statement"
+					],
+					[
+						"groups",
+						"groups_dict"
+					],
+					[
+						"except",
+						"Exception	class"
+					],
+					[
+						"grou",
+						"group_setting2	statement"
+					],
+					[
+						"st",
+						"storageport	import"
+					],
+					[
+						"assertNo",
+						"assertNotEqual"
+					],
+					[
+						"vd",
+						"vidi_mock"
+					],
+					[
+						"call",
+						"call_args"
+					],
+					[
+						"vidi",
+						"vidi_mock"
+					],
+					[
+						"vi",
+						"vidi_mock"
+					],
+					[
+						"se",
+						"search"
+					],
+					[
+						"storagebac",
+						"storagebackendport	statement"
+					],
+					[
+						"user",
+						"username	param"
+					],
+					[
+						"pass",
+						"password	param"
+					],
+					[
+						"utils",
+						"utils_data	function"
+					],
+					[
+						"ut",
+						"utils_data	function"
+					],
+					[
+						"py",
+						"pytest	module"
+					],
+					[
+						"as",
+						"assertRaises	function"
+					],
+					[
+						"func",
+						"func_name	statement"
+					],
+					[
+						"assert",
+						"assertEqual	function"
+					],
+					[
+						"data",
+						"data_str	statement"
+					],
+					[
+						"arg",
+						"arg_info	forstmt"
+					],
+					[
+						"al",
+						"all_args	statement"
+					],
+					[
+						"vid",
+						"vidisdk_generator"
+					],
+					[
+						"da",
+						"data_long"
+					],
+					[
+						"ex",
+						"expected_result	statement"
+					],
+					[
+						"tes",
+						"test_dict	statement"
+					],
+					[
+						"boo",
+						"bool_result	statement"
+					],
+					[
+						"asser",
+						"assertEqual	function"
+					],
+					[
+						"uni",
+						"unittest	module"
+					],
+					[
+						"shee",
+						"sheet_name"
+					],
+					[
+						"ui",
+						"utils	module"
+					],
+					[
+						"bu",
+						"bulk_ingest"
+					],
+					[
+						"master",
+						"master_metadata"
+					],
+					[
+						"field",
+						"field_groups"
+					],
+					[
+						"perm",
+						"permission"
+					],
+					[
+						"int",
+						"integer"
+					],
+					[
+						"in",
+						"integer"
+					],
+					[
+						"V",
+						"VIDISPINE_URL	statement"
+					],
+					[
+						"edi",
+						"edit_response	statement"
+					],
+					[
+						"Wor",
+						"Workaround"
+					],
+					[
+						"requ",
+						"request	param"
+					],
+					[
+						"chi",
+						"child_groups"
+					],
+					[
+						"groupna",
+						"groupname	param"
+					],
+					[
+						"if",
+						"ifmain	if __name__ == '__main__'"
+					],
+					[
+						"asse",
+						"asset_metadata	statement"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"Not",
+						"NotFoundError	import"
+					],
+					[
+						"statu",
+						"status_code"
+					],
+					[
+						"status",
+						"status_code	statement"
+					],
+					[
+						"pay",
+						"payload	statement"
+					],
+					[
+						"name",
+						"namedtuple	function"
+					],
+					[
+						"stat",
+						"status_code	statement"
+					],
+					[
+						"is",
+						"is_bad_request	statement"
+					],
+					[
+						"all",
+						"all_groups	statement"
+					],
+					[
+						"groupname",
+						"group_name	forstmt"
+					],
+					[
+						"rest",
+						"restrict_sharing"
+					],
+					[
+						"chil",
+						"child"
+					],
+					[
+						"ch",
+						"child_group2	statement"
+					],
+					[
+						"cho",
+						"child_groups"
+					],
+					[
+						"code",
+						"codename"
+					],
+					[
+						"BA",
+						"BAD_REQUEST	statement"
+					],
+					[
+						"de",
+						"description"
+					],
+					[
+						"exce",
+						"except_group"
+					],
+					[
+						"share",
+						"share_groups"
+					],
+					[
+						"port",
+						"portal"
+					],
+					[
+						"error",
+						"error_message	statement"
+					],
+					[
+						"por",
+						"portal"
+					],
+					[
+						"un",
+						"unicode_literals	statement"
+					],
+					[
+						"create",
+						"create_response	statement"
+					],
+					[
+						"NO",
+						"NOT_FOUND	statement"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"package i",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 431.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_asset_migration_2015-07-30T13:39:57.363992.log",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/sharing/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/sharing/tests/tests_shares.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/support/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/urls.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/portal_themes/zonza/templates/includes/nav.html",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/set/urls.py",
+				"/home/exo/pdev/blog_flask/app/__init__.py",
+				"/home/exo/pdev/blog_flask/app/config.py",
+				"/home/exo/pdev/blog_flask/app/forms.py",
+				"/home/exo/pdev/blog_flask/app/templates/login.html",
+				"/home/exo/pdev/blog_flask/app/templates/base.html",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_asset_migration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/asset_group_share_migration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/tests/test_asset_migration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/setup.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/update_content_type_label.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/utils/search.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/remove_assets_permission.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/bulk_share_assets_with_user.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/bulk_share_assets_with_group.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/draeger/share_approved_assets.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/item/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/portal_themes/draeger/templates/item/email/renegotiated_rights_email.txt",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/tests/test_data/assets_acl.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/settings/defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/ports/port.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/legacy/zonza_scripts_legacy/utils/share.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/utils/session.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/group/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+				"/home/exo/wdev/zonza-environment-builder/fabfile.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_content_type.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/BAU_5043_move_assets_site_and_set.py",
+				"/home/exo/Pobrane/[Zendesk Support] Re- Support page not loading.eml",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/defaults.ini",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/make_failure_excel.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ports/instantiated.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/create_groups_from_spreadsheet.py",
+				"/home/exo/wdev/zonza-environment-builder/Vagrantfile",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/validation.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bimaster/bulk-ingest/src/bulk_ingest/ingest/base_settings.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/test_defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/common.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/asset_metadata_adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/tox.ini",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/settings/test_defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/base_settings.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/README.md",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/MANIFEST.in",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/requirements/base.txt",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/__init__.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_user.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/monitor.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/orders/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/tasks.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/settings/defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/abort_jobs.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/solr_update.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/stats/tests/test_ingest_report.py",
+				"/home/exo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/stats/tests/test_data/metadata_groups.json",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/stats/utils/ingest_report.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/utils.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/metadata_fixture.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/public/js-tests/js-qunit-tests/order/edit/test_order-confirmation.js",
+				"/home/exo/wdev/zonza-environment-builder/settings/__init__.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/setup.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/UserDict.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/models.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest.egg-info/SOURCES.txt",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest.egg-info/PKG-INFO",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/node_modules/moment/locale/lt.js",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zsites/models.py",
+				"/home/exo/pdev/domino/USELESS/script.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/utils/tests/helpers.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/test_settings.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/config.ini",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/settings.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/tox.ini",
+				"/home/exo/wdev/zonza-environment-builder/code/ZDE/provision/tasks/setup_tasks.yml",
+				"/home/exo/wdev/zonza-environment-builder/code/ZDE/provision/vars/setup_vars.yml",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/tests/test_vidispine_set_integration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/HISTORY.rst",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/views/groups.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/groups/models.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/ingest/tests/test_supporting_files_tasks.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/ingest/tasks/supporting_files.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/ingest/tasks/__init__.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonza/management/commands/create_default_user_group.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/utils/__init__.py",
+				"/home/exo/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/utils/parse_utils.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_data/file_listing.txt",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/utils/extract_utils.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/HISTORY.rst",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/bulk_ingest/ingest/validation.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/format.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/utils/logtools.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/ZonzaRest/metadata.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/py27/lib/python2.7/site-packages/ZonzaRest/metadata.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/bulk_ingest/utils/asset_metadata_adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/set_adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/ZonzaRest/item.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/.tox/py27/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/item/tests/test_forms.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/test_import_port.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/share.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/thorax/api.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/views/users.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/tests/tests_users.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/forms/users.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zsites/adapters.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/users/tests/test_forms.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/api/tests/test_stills_api.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/ports/set_port.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/build/lib.linux-x86_64-2.7/vidispine_adapter/adapters/set_adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/search/logic.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/asset_dashboard/tests/test_api.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/asset_dashboard/api.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/set/forms.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/item/tests/test_tasks.py"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 164.0,
+				"where_history":
+				[
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal.",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts",
+					"~/wdev/zonza-environment-builder/code/zonza",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src",
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/common.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/ZDE/provision/",
+					"~/wdev/zonza-environment-builder/code/ZDE/setup/",
+					"~/wdev/zonza-environment-builder/code/ZDE/",
+					"~/wdev/zonza-environment-builder/zde/",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/pdev/savedparadise/templates/",
+					"~/pdev/savedparadise/tempaltes/",
+					"~/pdev/savedparadise/tempaltes",
+					"~/pdev/savedparadise/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/test/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/tests/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/vidisdk_generator/template/test/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/xxx/test/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/xxx/tests/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator",
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/pdev/exoblogdjango/qblog/static/",
+					"~/pdev/exoblogdjango/qblog/templates/",
+					"~/pdev/exoblogdjango/qblog/templates2/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/pdev/exoblogdjango/qblog/templates/",
+					"~/wdev/zonza-environment-builder/code/zonza/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/metadata_fixture.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/tests/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/tests",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/zonza",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/bulk_ingest/ingest",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/ingest",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/group/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+					"~/wdev/zonza-environment-builder/",
+					"~/wdev/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'support'",
+					"url(r'^$', 'support'",
+					"userbox",
+					"UserAddPermission",
+					"share_set",
+					"test_set_share_permanent",
+					"support",
+					"/support/",
+					"userbox",
+					"site_profile.zendesk_subdomain",
+					"zendesk.com",
+					"ZENDESK_URL",
+					"zendesk",
+					"Keurig",
+					"Keurig.zendesk",
+					"keurig.zendesk",
+					"zendesk",
+					"delete_acl_for_asset",
+					"acl_exists_for_set",
+					"acl_exists",
+					"get_assets_by_set",
+					"create_placeholder_asset",
+					"delete_acl_for_asset",
+					"exception",
+					"vidispine",
+					"create_acl_for_asset",
+					"get_acls_with_groups_from_assets",
+					"acl",
+					"renegotiated_rights_email",
+					"Usage rights have been modified",
+					"_transcoder",
+					"Searching",
+					"_transcoder_",
+					"_transcoder_ acl",
+					"storageport",
+					"keurig.zendesk",
+					"keurig.zendesk.com/",
+					"httplib",
+					"test_edit_group_add_malformed_permissions",
+					"login_to_zonza",
+					"cet_api",
+					"cet-api",
+					"verify_job",
+					"test_ingest_bundle_zip_sf",
+					"quote",
+					"test_ingest_bundle_with_sf",
+					"ipdb",
+					"base_path",
+					"ipdb",
+					"get_uri",
+					"ingest_master",
+					"return urljoin(self.base_path, self.ftp_path, quote(filepath))",
+					"get_uri",
+					"return urljoin(self.base_path, self.ftp_path, quote(filepath))",
+					"def_get_uri",
+					"ftp_path",
+					"ipdb",
+					"Unknown worksheet:",
+					"ftp_config",
+					"test_defaults",
+					"TestIngestSettings",
+					"test_defaults",
+					"test_string_restriction",
+					"ZJobManager",
+					"import weasyprint",
+					"from . import properties",
+					"ignore_fields",
+					"TestIngestSettings",
+					"IngestValidator",
+					"zip_files",
+					"zip_files\\",
+					"ftp_path",
+					"IngestValidator",
+					"ftp_path",
+					"run_bulk_ingest_task",
+					"test_create_bulk_job_task",
+					"ingest_folder",
+					"BundleIngester",
+					"ingest_bundle_task",
+					"BulkIngester",
+					"ftp_path",
+					"ingest_folder",
+					"ingest_bundle_task",
+					"ftp_path",
+					"base_path",
+					"get_uri",
+					"base_path",
+					"ftp_path",
+					"ingest_bundle_task",
+					"BundleIngester",
+					"ftp_path",
+					"zip_files",
+					"ftp_path",
+					"ingest_folder",
+					"get_site_metadata_groups",
+					"check_duplicate_values",
+					"self.ingest_user",
+					"extract_data_from_sheet",
+					"extract_data_from_wb",
+					"extract_data_from_sheet",
+					"BulkIngester",
+					"IngestValidator",
+					"build_master_support_dict",
+					"BundleIngester",
+					"BulkIngester",
+					"BundleIngester",
+					"BulkIngester",
+					"ingest_bundle_task",
+					"run_bulk_ingest_task",
+					"            ingest_user=TestIngestSettings.ingest_user,\n            metadata_prefix=TestIngestSettings.metadata_prefix\n        )",
+					"IngestValidator",
+					"            ingest_site=test_defaults.site,\n            ingest_user=test_defaults.ingest_user,\n            ingest_user_group=test_defaults.ingest_user_group,",
+					"ingest_user",
+					"metadata-group-does-not-exist",
+					"test_create_group_with_no_existing_child_group",
+					"create_group_with_child_and_zonza_roles",
+					"Luser",
+					"get_group",
+					"stora",
+					"setport",
+					"admin_user",
+					"storageport",
+					"class ",
+					"get_group",
+					"Searching",
+					"get_group",
+					"TestIngestSettings",
+					"share_group_field"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"TestIngestSettings",
+					"test_defaults",
+					"            metadata_prefix=TestIngestSettings.metadata_prefix\n        )",
+					"            ingest_site=test_defaults.site,\n            ingest_user_group=test_defaults.ingest_user_group,",
+					"test_defaults",
+					"settings",
+					"validator.start_validation()",
+					".bulk_ingest_via_xlsx(",
+					"        BulkIngester(\n            ingest_site=TestIngestSettings.site,\n            ingest_user=TestIngestSettings.ingest_user,",
+					"        BulkIngester(\n            ingest_site=TestIngestSettings.site,\n            ingest_user_group=TestIngestSettings.ingest_user_group,\n        ).start_bulk_ingest(workbook_path=TestIngestSettings.workbook_path)",
+					"        BulkIngester(\n            ingest_site=TestIngestSettings.site,\n            ingest_user_group=TestIngestSettings.ingest_user_group\n        ).bulk_ingest_via_xlsx(workbook_path=filepath)",
+					"        BulkIngester(ingest_site=TestIngestSettings.site).start_bulk_ingest(workbook_path=TestIngestSettings.workbook_path)",
+					"        BulkIngester(ingest_site=TestIngestSettings.site).bulk_ingest_via_xlsx(\n            workbook_path=filepath\n        )",
+					"BulkIngester(ingest_site=TestIngestSettings.site).bulk_ingest_via_xlsx(workbook_path=filepath)",
+					"BulkIngester(site=TestIngestSettings.site).bulk_ingest_via_xlsx(workbook_path=filepath)",
+					"TestIngestSettings",
+					"from bulk_ingest.settings.defaults import IngestSettings",
+					"settings.defaults",
+					"create_supporting_files_set",
+					"add_multiple_assets_to_set",
+					"setport.is_smartset",
+					"SetReorderError",
+					"storageport",
+					"static",
+					"",
+					"utils.urlquote_dict_values",
+					"utils.to_accept_param",
+					"utils.to_xs_string",
+					"utils.to_xs_long",
+					"utils.to_xs_short",
+					"utils.to_xs_int",
+					"utils.to_xs_boolean",
+					"to_accept_param",
+					"to_xs_string",
+					"to_xs_long",
+					"to_xs_short",
+					"to_xs_int",
+					"to_xs_boolean",
+					"static/images",
+					"assets",
+					"static",
+					"TestSettings",
+					"TestCasePatchedSettings.TestSettings",
+					"'",
+					"zonzabau",
+					"'admin'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"",
+					"''",
+					"EXPECTED_METADATA",
+					"10.9.3.100",
+					"assertEqual",
+					"'add_permission'",
+					"'application/json; charset=utf-8'",
+					"create_test_group",
+					"httplib.CONFLICT",
+					"httplib.BAD_REQUEST",
+					"httplib.CREATED"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 132.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"zonza/support/vi",
+						"portal/zonza/support/views.py"
+					],
+					[
+						"ada",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"test_group",
+						"code/zonza/portal/zonza/cet_api/tests/test_group.py"
+					],
+					[
+						"defau",
+						"code/bulk-ingest/src/bulk_ingest/settings/defaults.ini"
+					],
+					[
+						"def",
+						"code/bulk-ingest/src/bulk_ingest/settings/defaults.py"
+					],
+					[
+						"tox",
+						"bulk-ingest/tox.ini"
+					],
+					[
+						"test_de",
+						"bulk-ingest/src/bulk_ingest/settings/test_defaults.py"
+					],
+					[
+						"de",
+						"bulk-ingest/src/bulk_ingest/settings/defaults.py"
+					],
+					[
+						"defa",
+						"bulk-ingest/src/bulk_ingest/settings/defaults.ini"
+					],
+					[
+						"ingest_ru",
+						"bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"val",
+						"bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"valida",
+						"bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"app",
+						"app.py"
+					],
+					[
+						"readme",
+						"code/bulk-ingest/README.md"
+					],
+					[
+						"common",
+						"code/bulk-ingest/src/bulk_ingest/utils/common.py"
+					],
+					[
+						"monitor",
+						"code/bulk-ingest/src/bulk_ingest/ingest/monitor.py"
+					],
+					[
+						"test_va",
+						"code/bulk-ingest/src/tests/ingest_tests/test_validation.py"
+					],
+					[
+						"test_ingest",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"test_val",
+						"code/bulk-ingest/src/tests/ingest_tests/test_validation.py"
+					],
+					[
+						"test_in",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"test_ing",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"default",
+						"code/bulk-ingest/src/bulk_ingest/settings/defaults.py"
+					],
+					[
+						"defaul",
+						"code/zonza/portal/settings/defaults.py"
+					],
+					[
+						"vali",
+						"code/bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"ingest",
+						"code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"task",
+						"code/bulk-ingest/src/bulk_ingest/ingest/tasks.py"
+					],
+					[
+						"solr_update",
+						"code/bulk-ingest/src/bulk_ingest/ingest/solr_update.py"
+					],
+					[
+						"make_fa",
+						"code/bulk-ingest/src/bulk_ingest/ingest/make_failure_excel.py"
+					],
+					[
+						"",
+						"code/bulk-ingest/src/bulk_ingest/ingest/abort_jobs.py"
+					],
+					[
+						"abort_jobs.py",
+						"code/bulk-ingest/src/bulk_ingest/ingest/abort_jobs.py"
+					],
+					[
+						"t",
+						"code/bulk-ingest/tox.ini"
+					],
+					[
+						"test_def",
+						"code/bulk-ingest/src/bulk_ingest/settings/test_defaults.py"
+					],
+					[
+						"validation",
+						"code/bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"toc",
+						"code/zonza/public/js-tests/js-qunit-tests/order/edit/test_order-confirmation.js"
+					],
+					[
+						"__init",
+						"settings/__init__.py"
+					],
+					[
+						"commo",
+						"code/bulk-ingest/src/bulk_ingest/utils/common.py"
+					],
+					[
+						"setup",
+						"code/bulk-ingest/setup.py"
+					],
+					[
+						"luser",
+						"code/bulk-ingest/.tox/lint/lib/python2.7/UserDict.py"
+					],
+					[
+						"test_inges",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"set",
+						"code/bulk-ingest/setup.py"
+					],
+					[
+						"ingest_",
+						"code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"inges",
+						"code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"test_d",
+						"code/bulk-ingest/src/bulk_ingest/settings/test_defaults.py"
+					],
+					[
+						"test_inge",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"cet_api/tests/test",
+						"code/zonza/portal/zonza/cet_api/tests/test_user.py"
+					],
+					[
+						"test_v",
+						"code/bulk-ingest/src/tests/ingest_tests/test_validation.py"
+					],
+					[
+						"test",
+						"code/zonza/portal/settings/test_defaults.py"
+					],
+					[
+						"setup.py",
+						"code/bulk-ingest/setup.py"
+					],
+					[
+						"port",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/ports/port.py"
+					],
+					[
+						"asset_meta",
+						"code/bulk-ingest/src/bulk_ingest/utils/asset_metadata_adapter.py"
+					],
+					[
+						"test_vi",
+						"code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py"
+					],
+					[
+						"test_vid",
+						"code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py"
+					],
+					[
+						"par",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/utils/parse_utils.py"
+					],
+					[
+						"inge",
+						"code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"adapte",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"in",
+						"code/bulk-ingest/src/bulk_ingest/ports/instantiated.py"
+					],
+					[
+						"parse",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/utils/parse_utils.py"
+					],
+					[
+						"insta",
+						"code/bulk-ingest/src/bulk_ingest/ports/instantiated.py"
+					],
+					[
+						"setu",
+						"code/bulk-ingest/setup.py"
+					],
+					[
+						"adap",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"src/utils/",
+						"code/bulk-ingest/src/bulk_ingest/utils/asset_metadata_adapter.py"
+					],
+					[
+						"test_vidi",
+						"code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py"
+					],
+					[
+						"test_ig",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"adapter",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"va",
+						"code/bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"pport",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/ports/port.py"
+					],
+					[
+						"adapt",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"base.t",
+						"code/zonza/requirements/base.txt"
+					],
+					[
+						"base",
+						"code/zonza/requirements/base.txt"
+					],
+					[
+						"adapet",
+						"code/zonza/portal/zonza/zsites/adapters.py"
+					],
+					[
+						"users.py",
+						"code/zonza/portal/zonza/zonzaadmin/views/users.py"
+					],
+					[
+						"tests_users.py",
+						"code/zonza/portal/zonza/zonzaadmin/tests/tests_users.py"
+					],
+					[
+						"port.",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/ports/port.py"
+					],
+					[
+						"fab",
+						"fabfile.py"
+					],
+					[
+						"tests_us",
+						"code/zonza/portal/zonza/zonzaadmin/tests/tests_users.py"
+					],
+					[
+						"test_vidispine_set_integration",
+						"code/zonza-vidispine-adapter/src/tests/test_vidispine_set_integration.py"
+					],
+					[
+						"test_views.py",
+						"code/zonza/portal/zonza/search/tests/test_views.py"
+					],
+					[
+						"setpo",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/ports/set_port.py"
+					],
+					[
+						"apapter",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"set_ada",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/set_adapter.py"
+					],
+					[
+						"cet_api/ut",
+						"zonza/portal/zonza/cet_api/group/utils.py"
+					],
+					[
+						"urls",
+						"code/zonza/portal/zonza/cet_api/urls.py"
+					],
+					[
+						"urls.py",
+						"code/zonza/portal/zonza/cet_api/urls.py"
+					],
+					[
+						"create_users_from_spreadsheet",
+						"code/zonza-scripts/src/zonza_scripts/scripts/create_users_from_spreadsheet.py"
+					],
+					[
+						"his",
+						"code/zonza-vidispine-adapter/HISTORY.rst"
+					],
+					[
+						"base.txt",
+						"code/zonza/requirements/base.txt"
+					],
+					[
+						"adapter.",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapter.py"
+					],
+					[
+						"cet_api/tests/",
+						"code/zonza/portal/zonza/cet_api/tests/utils.py"
+					],
+					[
+						"utils",
+						"code/zonza/portal/zonza/cet_api/group/utils.py"
+					],
+					[
+						"vagra",
+						"Vagrantfile"
+					],
+					[
+						"cet_api",
+						"code/zonza/portal/zonza/cet_api/tests/test_group.py"
+					],
+					[
+						"requ",
+						"code/zonza/requirements.txt"
+					],
+					[
+						"v",
+						"Vagrantfile"
+					],
+					[
+						"cet_api/tes",
+						"code/zonza/portal/zonza/cet_api/tests/utils.py"
+					],
+					[
+						"portal/zonza/cet_api/group",
+						"code/zonza/portal/zonza/cet_api/group/utils.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 653.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 355.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"render_template"
+					],
+					[
+						"dele",
+						"deleted_act	statement"
+					],
+					[
+						"ass",
+						"asset_search	statement"
+					],
+					[
+						"asset_",
+						"asset_id"
+					],
+					[
+						"lo",
+						"logging	module"
+					],
+					[
+						"test",
+						"test_defaults"
+					],
+					[
+						"set",
+						"settings"
+					],
+					[
+						"ingest",
+						"ingest_folder"
+					],
+					[
+						"inges",
+						"ingest_folder"
+					],
+					[
+						"ftp",
+						"ftp_path"
+					],
+					[
+						"get",
+						"get_string"
+					],
+					[
+						"sto",
+						"storageport"
+					],
+					[
+						"mock",
+						"mock_get_group	param"
+					],
+					[
+						"file",
+						"filepath"
+					],
+					[
+						"meta",
+						"metadata_prefix"
+					],
+					[
+						"Te",
+						"TestIngestSettings	import"
+					],
+					[
+						"TE",
+						"TestIngestSettings	import"
+					],
+					[
+						"def",
+						"defaults	module"
+					],
+					[
+						"ge",
+						"get_string"
+					],
+					[
+						"dj",
+						"dj_vidispine_url"
+					],
+					[
+						"ou",
+						"outdated_only"
+					],
+					[
+						"e",
+						"expect"
+					],
+					[
+						"gro",
+						"group_label"
+					],
+					[
+						"supp",
+						"supporting_files	param"
+					],
+					[
+						"item",
+						"item_metadata	statement"
+					],
+					[
+						"group",
+						"group_name"
+					],
+					[
+						"inge",
+						"ingest_user	statement"
+					],
+					[
+						"non",
+						"non-existing-child"
+					],
+					[
+						"expected",
+						"expected_fields	statement"
+					],
+					[
+						"exc",
+						"expected_checkbox"
+					],
+					[
+						"K",
+						"KeyError	class"
+					],
+					[
+						"sp",
+						"sp_metadata	statement"
+					],
+					[
+						"gr",
+						"group_name"
+					],
+					[
+						"asset",
+						"asset_id"
+					],
+					[
+						"imp",
+						"import_settings	statement"
+					],
+					[
+						"odr",
+						"orderedContent"
+					],
+					[
+						"stp",
+						"storageport	import"
+					],
+					[
+						"res",
+						"response	statement"
+					],
+					[
+						"groups",
+						"groups_dict"
+					],
+					[
+						"except",
+						"Exception	class"
+					],
+					[
+						"grou",
+						"group_setting2	statement"
+					],
+					[
+						"st",
+						"storageport	import"
+					],
+					[
+						"assertNo",
+						"assertNotEqual"
+					],
+					[
+						"vd",
+						"vidi_mock"
+					],
+					[
+						"call",
+						"call_args"
+					],
+					[
+						"vidi",
+						"vidi_mock"
+					],
+					[
+						"vi",
+						"vidi_mock"
+					],
+					[
+						"se",
+						"search"
+					],
+					[
+						"storagebac",
+						"storagebackendport	statement"
+					],
+					[
+						"user",
+						"username	param"
+					],
+					[
+						"pass",
+						"password	param"
+					],
+					[
+						"utils",
+						"utils_data	function"
+					],
+					[
+						"ut",
+						"utils_data	function"
+					],
+					[
+						"py",
+						"pytest	module"
+					],
+					[
+						"as",
+						"assertRaises	function"
+					],
+					[
+						"func",
+						"func_name	statement"
+					],
+					[
+						"assert",
+						"assertEqual	function"
+					],
+					[
+						"data",
+						"data_str	statement"
+					],
+					[
+						"arg",
+						"arg_info	forstmt"
+					],
+					[
+						"al",
+						"all_args	statement"
+					],
+					[
+						"vid",
+						"vidisdk_generator"
+					],
+					[
+						"da",
+						"data_long"
+					],
+					[
+						"ex",
+						"expected_result	statement"
+					],
+					[
+						"tes",
+						"test_dict	statement"
+					],
+					[
+						"boo",
+						"bool_result	statement"
+					],
+					[
+						"asser",
+						"assertEqual	function"
+					],
+					[
+						"uni",
+						"unittest	module"
+					],
+					[
+						"shee",
+						"sheet_name"
+					],
+					[
+						"ui",
+						"utils	module"
+					],
+					[
+						"bu",
+						"bulk_ingest"
+					],
+					[
+						"master",
+						"master_metadata"
+					],
+					[
+						"field",
+						"field_groups"
+					],
+					[
+						"perm",
+						"permission"
+					],
+					[
+						"int",
+						"integer"
+					],
+					[
+						"in",
+						"integer"
+					],
+					[
+						"V",
+						"VIDISPINE_URL	statement"
+					],
+					[
+						"edi",
+						"edit_response	statement"
+					],
+					[
+						"Wor",
+						"Workaround"
+					],
+					[
+						"requ",
+						"request	param"
+					],
+					[
+						"chi",
+						"child_groups"
+					],
+					[
+						"groupna",
+						"groupname	param"
+					],
+					[
+						"if",
+						"ifmain	if __name__ == '__main__'"
+					],
+					[
+						"asse",
+						"asset_metadata	statement"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"Not",
+						"NotFoundError	import"
+					],
+					[
+						"statu",
+						"status_code"
+					],
+					[
+						"status",
+						"status_code	statement"
+					],
+					[
+						"pay",
+						"payload	statement"
+					],
+					[
+						"name",
+						"namedtuple	function"
+					],
+					[
+						"stat",
+						"status_code	statement"
+					],
+					[
+						"is",
+						"is_bad_request	statement"
+					],
+					[
+						"all",
+						"all_groups	statement"
+					],
+					[
+						"groupname",
+						"group_name	forstmt"
+					],
+					[
+						"rest",
+						"restrict_sharing"
+					],
+					[
+						"chil",
+						"child"
+					],
+					[
+						"ch",
+						"child_group2	statement"
+					],
+					[
+						"cho",
+						"child_groups"
+					],
+					[
+						"code",
+						"codename"
+					],
+					[
+						"BA",
+						"BAD_REQUEST	statement"
+					],
+					[
+						"de",
+						"description"
+					],
+					[
+						"exce",
+						"except_group"
+					],
+					[
+						"share",
+						"share_groups"
+					],
+					[
+						"port",
+						"portal"
+					],
+					[
+						"error",
+						"error_message	statement"
+					],
+					[
+						"por",
+						"portal"
+					],
+					[
+						"un",
+						"unicode_literals	statement"
+					],
+					[
+						"create",
+						"create_response	statement"
+					],
+					[
+						"NO",
+						"NOT_FOUND	statement"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/exo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 985,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nMaterial Theme:\n--------------\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  \n  Version 1.8.2\n  ********************************************************************************\n  \n  #### UI IMPROVEMENTS\n  \n    - Fix tree accent indicator\n    - Minor UI fix\n  \n  #### COLOR SCHEME\n    \n    - Update caret color    \n    ",
+					"settings":
+					{
+						"buffer_size": 413,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
+						"package i",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 431.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/exo/wdev/zonza-environment-builder",
+				"/home/exo/wdev/zonza-environment-builder/code",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza"
+			],
+			"file_history":
+			[
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_asset_migration_2015-07-30T13:39:57.363992.log",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/sharing/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/sharing/tests/tests_shares.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/support/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/urls.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/portal_themes/zonza/templates/includes/nav.html",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/set/urls.py",
+				"/home/exo/pdev/blog_flask/app/__init__.py",
+				"/home/exo/pdev/blog_flask/app/config.py",
+				"/home/exo/pdev/blog_flask/app/forms.py",
+				"/home/exo/pdev/blog_flask/app/templates/login.html",
+				"/home/exo/pdev/blog_flask/app/templates/base.html",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_asset_migration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/asset_group_share_migration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/tests/test_asset_migration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/setup.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/update_content_type_label.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/utils/search.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/remove_assets_permission.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/bulk_share_assets_with_user.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/bulk_share_assets_with_group.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/draeger/share_approved_assets.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/item/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/portal_themes/draeger/templates/item/email/renegotiated_rights_email.txt",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/tests/test_data/assets_acl.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/settings/defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/ports/port.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/legacy/zonza_scripts_legacy/utils/share.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/utils/session.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/group/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+				"/home/exo/wdev/zonza-environment-builder/fabfile.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_content_type.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/BAU_5043_move_assets_site_and_set.py",
+				"/home/exo/Pobrane/[Zendesk Support] Re- Support page not loading.eml",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/defaults.ini",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/make_failure_excel.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ports/instantiated.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/create_groups_from_spreadsheet.py",
+				"/home/exo/wdev/zonza-environment-builder/Vagrantfile",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/validation.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bimaster/bulk-ingest/src/bulk_ingest/ingest/base_settings.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/test_defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/common.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/asset_metadata_adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/tox.ini",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/settings/test_defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/base_settings.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/README.md",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/MANIFEST.in",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/requirements/base.txt",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/__init__.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_user.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/monitor.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/orders/views.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/tasks.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/settings/defaults.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/abort_jobs.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/solr_update.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/stats/tests/test_ingest_report.py",
+				"/home/exo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/stats/tests/test_data/metadata_groups.json",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/stats/utils/ingest_report.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/utils.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/metadata_fixture.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/public/js-tests/js-qunit-tests/order/edit/test_order-confirmation.js",
+				"/home/exo/wdev/zonza-environment-builder/settings/__init__.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/setup.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/UserDict.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/models.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest.egg-info/SOURCES.txt",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest.egg-info/PKG-INFO",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/node_modules/moment/locale/lt.js",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zsites/models.py",
+				"/home/exo/pdev/domino/USELESS/script.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/utils/tests/helpers.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/test_settings.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/config.ini",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/settings/settings.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/tox.ini",
+				"/home/exo/wdev/zonza-environment-builder/code/ZDE/provision/tasks/setup_tasks.yml",
+				"/home/exo/wdev/zonza-environment-builder/code/ZDE/provision/vars/setup_vars.yml",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/tests/test_vidispine_set_integration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/HISTORY.rst",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/views/groups.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/groups/models.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/ingest/tests/test_supporting_files_tasks.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/ingest/tasks/supporting_files.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/ingest/tasks/__init__.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonza/management/commands/create_default_user_group.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/utils/__init__.py",
+				"/home/exo/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/utils/parse_utils.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_data/file_listing.txt",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/utils/extract_utils.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/HISTORY.rst",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/bulk_ingest/ingest/validation.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/format.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/utils/logtools.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/ZonzaRest/metadata.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/py27/lib/python2.7/site-packages/ZonzaRest/metadata.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/bulk_ingest/utils/asset_metadata_adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/set_adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/ZonzaRest/item.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/.tox/py27/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/item/tests/test_forms.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/test_import_port.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/share.py",
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/thorax/api.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/views/users.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/tests/tests_users.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/forms/users.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zsites/adapters.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/users/tests/test_forms.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/api/tests/test_stills_api.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/ports/set_port.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/build/lib.linux-x86_64-2.7/vidispine_adapter/adapters/set_adapter.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/search/logic.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/asset_dashboard/tests/test_api.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/asset_dashboard/api.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/set/forms.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/item/tests/test_tasks.py"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 164.0,
+				"where_history":
+				[
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal.",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts",
+					"~/wdev/zonza-environment-builder/code/zonza",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src",
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/common.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/ZDE/provision/",
+					"~/wdev/zonza-environment-builder/code/ZDE/setup/",
+					"~/wdev/zonza-environment-builder/code/ZDE/",
+					"~/wdev/zonza-environment-builder/zde/",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/pdev/savedparadise/templates/",
+					"~/pdev/savedparadise/tempaltes/",
+					"~/pdev/savedparadise/tempaltes",
+					"~/pdev/savedparadise/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/test/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/tests/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/vidisdk_generator/template/test/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/xxx/test/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/xxx/tests/test_utils.py",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator/",
+					"~/wdev/zonza-environment-builder/code/vidisdk_generator",
+					"~/wdev/zonza-environment-builder/code/zonza/portal",
+					"~/pdev/exoblogdjango/qblog/static/",
+					"~/pdev/exoblogdjango/qblog/templates/",
+					"~/pdev/exoblogdjango/qblog/templates2/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/pdev/exoblogdjango/qblog/templates/",
+					"~/wdev/zonza-environment-builder/code/zonza/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/metadata_fixture.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/tests/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/tests",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_validation.py",
+					"~/wdev/zonza-environment-builder/code/zonza",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/ingest_tests/test_ingest.py",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/bulk_ingest/ingest",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/ingest",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/src/",
+					"~/wdev/zonza-environment-builder/code/bulk-ingest/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/group/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/",
+					"~/wdev/zonza-environment-builder/code/zonza/portal/zonza/cet_api/tests/test_group.py",
+					"~/wdev/zonza-environment-builder/",
+					"~/wdev/",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'support'",
+					"url(r'^$', 'support'",
+					"userbox",
+					"UserAddPermission",
+					"share_set",
+					"test_set_share_permanent",
+					"support",
+					"/support/",
+					"userbox",
+					"site_profile.zendesk_subdomain",
+					"zendesk.com",
+					"ZENDESK_URL",
+					"zendesk",
+					"Keurig",
+					"Keurig.zendesk",
+					"keurig.zendesk",
+					"zendesk",
+					"delete_acl_for_asset",
+					"acl_exists_for_set",
+					"acl_exists",
+					"get_assets_by_set",
+					"create_placeholder_asset",
+					"delete_acl_for_asset",
+					"exception",
+					"vidispine",
+					"create_acl_for_asset",
+					"get_acls_with_groups_from_assets",
+					"acl",
+					"renegotiated_rights_email",
+					"Usage rights have been modified",
+					"_transcoder",
+					"Searching",
+					"_transcoder_",
+					"_transcoder_ acl",
+					"storageport",
+					"keurig.zendesk",
+					"keurig.zendesk.com/",
+					"httplib",
+					"test_edit_group_add_malformed_permissions",
+					"login_to_zonza",
+					"cet_api",
+					"cet-api",
+					"verify_job",
+					"test_ingest_bundle_zip_sf",
+					"quote",
+					"test_ingest_bundle_with_sf",
+					"ipdb",
+					"base_path",
+					"ipdb",
+					"get_uri",
+					"ingest_master",
+					"return urljoin(self.base_path, self.ftp_path, quote(filepath))",
+					"get_uri",
+					"return urljoin(self.base_path, self.ftp_path, quote(filepath))",
+					"def_get_uri",
+					"ftp_path",
+					"ipdb",
+					"Unknown worksheet:",
+					"ftp_config",
+					"test_defaults",
+					"TestIngestSettings",
+					"test_defaults",
+					"test_string_restriction",
+					"ZJobManager",
+					"import weasyprint",
+					"from . import properties",
+					"ignore_fields",
+					"TestIngestSettings",
+					"IngestValidator",
+					"zip_files",
+					"zip_files\\",
+					"ftp_path",
+					"IngestValidator",
+					"ftp_path",
+					"run_bulk_ingest_task",
+					"test_create_bulk_job_task",
+					"ingest_folder",
+					"BundleIngester",
+					"ingest_bundle_task",
+					"BulkIngester",
+					"ftp_path",
+					"ingest_folder",
+					"ingest_bundle_task",
+					"ftp_path",
+					"base_path",
+					"get_uri",
+					"base_path",
+					"ftp_path",
+					"ingest_bundle_task",
+					"BundleIngester",
+					"ftp_path",
+					"zip_files",
+					"ftp_path",
+					"ingest_folder",
+					"get_site_metadata_groups",
+					"check_duplicate_values",
+					"self.ingest_user",
+					"extract_data_from_sheet",
+					"extract_data_from_wb",
+					"extract_data_from_sheet",
+					"BulkIngester",
+					"IngestValidator",
+					"build_master_support_dict",
+					"BundleIngester",
+					"BulkIngester",
+					"BundleIngester",
+					"BulkIngester",
+					"ingest_bundle_task",
+					"run_bulk_ingest_task",
+					"            ingest_user=TestIngestSettings.ingest_user,\n            metadata_prefix=TestIngestSettings.metadata_prefix\n        )",
+					"IngestValidator",
+					"            ingest_site=test_defaults.site,\n            ingest_user=test_defaults.ingest_user,\n            ingest_user_group=test_defaults.ingest_user_group,",
+					"ingest_user",
+					"metadata-group-does-not-exist",
+					"test_create_group_with_no_existing_child_group",
+					"create_group_with_child_and_zonza_roles",
+					"Luser",
+					"get_group",
+					"stora",
+					"setport",
+					"admin_user",
+					"storageport",
+					"class ",
+					"get_group",
+					"Searching",
+					"get_group",
+					"TestIngestSettings",
+					"share_group_field"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"TestIngestSettings",
+					"test_defaults",
+					"            metadata_prefix=TestIngestSettings.metadata_prefix\n        )",
+					"            ingest_site=test_defaults.site,\n            ingest_user_group=test_defaults.ingest_user_group,",
+					"test_defaults",
+					"settings",
+					"validator.start_validation()",
+					".bulk_ingest_via_xlsx(",
+					"        BulkIngester(\n            ingest_site=TestIngestSettings.site,\n            ingest_user=TestIngestSettings.ingest_user,",
+					"        BulkIngester(\n            ingest_site=TestIngestSettings.site,\n            ingest_user_group=TestIngestSettings.ingest_user_group,\n        ).start_bulk_ingest(workbook_path=TestIngestSettings.workbook_path)",
+					"        BulkIngester(\n            ingest_site=TestIngestSettings.site,\n            ingest_user_group=TestIngestSettings.ingest_user_group\n        ).bulk_ingest_via_xlsx(workbook_path=filepath)",
+					"        BulkIngester(ingest_site=TestIngestSettings.site).start_bulk_ingest(workbook_path=TestIngestSettings.workbook_path)",
+					"        BulkIngester(ingest_site=TestIngestSettings.site).bulk_ingest_via_xlsx(\n            workbook_path=filepath\n        )",
+					"BulkIngester(ingest_site=TestIngestSettings.site).bulk_ingest_via_xlsx(workbook_path=filepath)",
+					"BulkIngester(site=TestIngestSettings.site).bulk_ingest_via_xlsx(workbook_path=filepath)",
+					"TestIngestSettings",
+					"from bulk_ingest.settings.defaults import IngestSettings",
+					"settings.defaults",
+					"create_supporting_files_set",
+					"add_multiple_assets_to_set",
+					"setport.is_smartset",
+					"SetReorderError",
+					"storageport",
+					"static",
+					"",
+					"utils.urlquote_dict_values",
+					"utils.to_accept_param",
+					"utils.to_xs_string",
+					"utils.to_xs_long",
+					"utils.to_xs_short",
+					"utils.to_xs_int",
+					"utils.to_xs_boolean",
+					"to_accept_param",
+					"to_xs_string",
+					"to_xs_long",
+					"to_xs_short",
+					"to_xs_int",
+					"to_xs_boolean",
+					"static/images",
+					"assets",
+					"static",
+					"TestSettings",
+					"TestCasePatchedSettings.TestSettings",
+					"'",
+					"zonzabau",
+					"'admin'",
+					"\"",
+					"'",
+					"\"",
+					"'",
+					"",
+					"''",
+					"EXPECTED_METADATA",
+					"10.9.3.100",
+					"assertEqual",
+					"'add_permission'",
+					"'application/json; charset=utf-8'",
+					"create_test_group",
+					"httplib.CONFLICT",
+					"httplib.BAD_REQUEST",
+					"httplib.CREATED"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/exo/wdev/zonza-environment-builder"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/exo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 985,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										885,
+										885
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 88.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 413,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										413,
+										413
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"default_dir": "/home/exo/wdev/zonza-environment-builder",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 132.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"zonza/support/vi",
+						"portal/zonza/support/views.py"
+					],
+					[
+						"ada",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"test_group",
+						"code/zonza/portal/zonza/cet_api/tests/test_group.py"
+					],
+					[
+						"defau",
+						"code/bulk-ingest/src/bulk_ingest/settings/defaults.ini"
+					],
+					[
+						"def",
+						"code/bulk-ingest/src/bulk_ingest/settings/defaults.py"
+					],
+					[
+						"tox",
+						"bulk-ingest/tox.ini"
+					],
+					[
+						"test_de",
+						"bulk-ingest/src/bulk_ingest/settings/test_defaults.py"
+					],
+					[
+						"de",
+						"bulk-ingest/src/bulk_ingest/settings/defaults.py"
+					],
+					[
+						"defa",
+						"bulk-ingest/src/bulk_ingest/settings/defaults.ini"
+					],
+					[
+						"ingest_ru",
+						"bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"val",
+						"bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"valida",
+						"bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"app",
+						"app.py"
+					],
+					[
+						"readme",
+						"code/bulk-ingest/README.md"
+					],
+					[
+						"common",
+						"code/bulk-ingest/src/bulk_ingest/utils/common.py"
+					],
+					[
+						"monitor",
+						"code/bulk-ingest/src/bulk_ingest/ingest/monitor.py"
+					],
+					[
+						"test_va",
+						"code/bulk-ingest/src/tests/ingest_tests/test_validation.py"
+					],
+					[
+						"test_ingest",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"test_val",
+						"code/bulk-ingest/src/tests/ingest_tests/test_validation.py"
+					],
+					[
+						"test_in",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"test_ing",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"default",
+						"code/bulk-ingest/src/bulk_ingest/settings/defaults.py"
+					],
+					[
+						"defaul",
+						"code/zonza/portal/settings/defaults.py"
+					],
+					[
+						"vali",
+						"code/bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"ingest",
+						"code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"task",
+						"code/bulk-ingest/src/bulk_ingest/ingest/tasks.py"
+					],
+					[
+						"solr_update",
+						"code/bulk-ingest/src/bulk_ingest/ingest/solr_update.py"
+					],
+					[
+						"make_fa",
+						"code/bulk-ingest/src/bulk_ingest/ingest/make_failure_excel.py"
+					],
+					[
+						"",
+						"code/bulk-ingest/src/bulk_ingest/ingest/abort_jobs.py"
+					],
+					[
+						"abort_jobs.py",
+						"code/bulk-ingest/src/bulk_ingest/ingest/abort_jobs.py"
+					],
+					[
+						"t",
+						"code/bulk-ingest/tox.ini"
+					],
+					[
+						"test_def",
+						"code/bulk-ingest/src/bulk_ingest/settings/test_defaults.py"
+					],
+					[
+						"validation",
+						"code/bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"toc",
+						"code/zonza/public/js-tests/js-qunit-tests/order/edit/test_order-confirmation.js"
+					],
+					[
+						"__init",
+						"settings/__init__.py"
+					],
+					[
+						"commo",
+						"code/bulk-ingest/src/bulk_ingest/utils/common.py"
+					],
+					[
+						"setup",
+						"code/bulk-ingest/setup.py"
+					],
+					[
+						"luser",
+						"code/bulk-ingest/.tox/lint/lib/python2.7/UserDict.py"
+					],
+					[
+						"test_inges",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"set",
+						"code/bulk-ingest/setup.py"
+					],
+					[
+						"ingest_",
+						"code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"inges",
+						"code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"test_d",
+						"code/bulk-ingest/src/bulk_ingest/settings/test_defaults.py"
+					],
+					[
+						"test_inge",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"cet_api/tests/test",
+						"code/zonza/portal/zonza/cet_api/tests/test_user.py"
+					],
+					[
+						"test_v",
+						"code/bulk-ingest/src/tests/ingest_tests/test_validation.py"
+					],
+					[
+						"test",
+						"code/zonza/portal/settings/test_defaults.py"
+					],
+					[
+						"setup.py",
+						"code/bulk-ingest/setup.py"
+					],
+					[
+						"port",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/ports/port.py"
+					],
+					[
+						"asset_meta",
+						"code/bulk-ingest/src/bulk_ingest/utils/asset_metadata_adapter.py"
+					],
+					[
+						"test_vi",
+						"code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py"
+					],
+					[
+						"test_vid",
+						"code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py"
+					],
+					[
+						"par",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/utils/parse_utils.py"
+					],
+					[
+						"inge",
+						"code/bulk-ingest/src/bulk_ingest/ingest/ingest_runner.py"
+					],
+					[
+						"adapte",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"in",
+						"code/bulk-ingest/src/bulk_ingest/ports/instantiated.py"
+					],
+					[
+						"parse",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/utils/parse_utils.py"
+					],
+					[
+						"insta",
+						"code/bulk-ingest/src/bulk_ingest/ports/instantiated.py"
+					],
+					[
+						"setu",
+						"code/bulk-ingest/setup.py"
+					],
+					[
+						"adap",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"src/utils/",
+						"code/bulk-ingest/src/bulk_ingest/utils/asset_metadata_adapter.py"
+					],
+					[
+						"test_vidi",
+						"code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py"
+					],
+					[
+						"test_ig",
+						"code/bulk-ingest/src/tests/ingest_tests/test_ingest.py"
+					],
+					[
+						"adapter",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"va",
+						"code/bulk-ingest/src/bulk_ingest/ingest/validation.py"
+					],
+					[
+						"pport",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/ports/port.py"
+					],
+					[
+						"adapt",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"base.t",
+						"code/zonza/requirements/base.txt"
+					],
+					[
+						"base",
+						"code/zonza/requirements/base.txt"
+					],
+					[
+						"adapet",
+						"code/zonza/portal/zonza/zsites/adapters.py"
+					],
+					[
+						"users.py",
+						"code/zonza/portal/zonza/zonzaadmin/views/users.py"
+					],
+					[
+						"tests_users.py",
+						"code/zonza/portal/zonza/zonzaadmin/tests/tests_users.py"
+					],
+					[
+						"port.",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/ports/port.py"
+					],
+					[
+						"fab",
+						"fabfile.py"
+					],
+					[
+						"tests_us",
+						"code/zonza/portal/zonza/zonzaadmin/tests/tests_users.py"
+					],
+					[
+						"test_vidispine_set_integration",
+						"code/zonza-vidispine-adapter/src/tests/test_vidispine_set_integration.py"
+					],
+					[
+						"test_views.py",
+						"code/zonza/portal/zonza/search/tests/test_views.py"
+					],
+					[
+						"setpo",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/ports/set_port.py"
+					],
+					[
+						"apapter",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py"
+					],
+					[
+						"set_ada",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/set_adapter.py"
+					],
+					[
+						"cet_api/ut",
+						"zonza/portal/zonza/cet_api/group/utils.py"
+					],
+					[
+						"urls",
+						"code/zonza/portal/zonza/cet_api/urls.py"
+					],
+					[
+						"urls.py",
+						"code/zonza/portal/zonza/cet_api/urls.py"
+					],
+					[
+						"create_users_from_spreadsheet",
+						"code/zonza-scripts/src/zonza_scripts/scripts/create_users_from_spreadsheet.py"
+					],
+					[
+						"his",
+						"code/zonza-vidispine-adapter/HISTORY.rst"
+					],
+					[
+						"base.txt",
+						"code/zonza/requirements/base.txt"
+					],
+					[
+						"adapter.",
+						"code/zonza-vidispine-adapter/src/vidispine_adapter/adapter.py"
+					],
+					[
+						"cet_api/tests/",
+						"code/zonza/portal/zonza/cet_api/tests/utils.py"
+					],
+					[
+						"utils",
+						"code/zonza/portal/zonza/cet_api/group/utils.py"
+					],
+					[
+						"vagra",
+						"Vagrantfile"
+					],
+					[
+						"cet_api",
+						"code/zonza/portal/zonza/cet_api/tests/test_group.py"
+					],
+					[
+						"requ",
+						"code/zonza/requirements.txt"
+					],
+					[
+						"v",
+						"Vagrantfile"
+					],
+					[
+						"cet_api/tes",
+						"code/zonza/portal/zonza/cet_api/tests/utils.py"
+					],
+					[
+						"portal/zonza/cet_api/group",
+						"code/zonza/portal/zonza/cet_api/group/utils.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 653.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 355.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 50,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/exo/wdev/zonza.sublime-workspace"
+		]
+	}
+}
