@@ -1,6 +1,11 @@
 {
 	"folder_history":
 	[
+		"/home/exo/pdev/djangocon/djangocon-2015-wagtail",
+		"/home/exo/wdev/ZDE",
+		"/home/exo/wdev/zonza-environment-builder/code/zonza/docs",
+		"/home/exo/wdev/zonza-environment-builder/code/zonza-admin-service",
+		"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest",
 		"/home/exo/wdev/zonza-environment-builder",
 		"/home/exo/wdev/zonza-environment-builder/code/zonza",
 		"/home/exo/pdev/pypila",
@@ -14,7 +19,6 @@
 		"/home/exo/pdev/flask_blog",
 		"/home/exo/wdev/zonza-environment-builder/code/incredible_bulk",
 		"/home/exo/pdev/startpage",
-		"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest",
 		"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts",
 		"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter",
 		"/home/exo/wdev/zonza-environment-builder/templates",
@@ -37,11 +41,11 @@
 		"/home/kuba/Development/zonza-environment-builder"
 	],
 	"last_version": 3083,
-	"last_window_id": 82,
+	"last_window_id": 89,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 667.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -793,6 +797,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"parent",
+					"child",
+					"children",
+					"API/group/",
 					"test_get_all_metadata_field_group_with_extradata",
 					"preserve_ordered_dicts",
 					"_clean_xmltodict",
@@ -916,11 +924,7 @@
 					"BulkIngester",
 					"IngestValidator",
 					"build_master_support_dict",
-					"BundleIngester",
-					"BulkIngester",
-					"BundleIngester",
-					"BulkIngester",
-					"ingest_bundle_task"
+					"BundleIngester"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1407,9 +1411,13 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "z",
+				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"~/Devel/z/z.sublime-project"
+					],
 					[
 						"z",
 						"~/Devel/z/z.sublime-project"
@@ -1417,10 +1425,6 @@
 					[
 						"zonza",
 						"~/wdev/zonza.sublime-workspace"
-					],
-					[
-						"",
-						"~/wdev/code.sublime-workspace"
 					]
 				],
 				"width": 380.0
@@ -1444,7 +1448,7 @@
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 956.0
 	},
 	"windows":
 	[
@@ -1453,6 +1457,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"file",
+						"filepath	param"
+					],
 					[
 						"acl",
 						"acl_permission	statement"
@@ -1512,10 +1520,6 @@
 					[
 						"mock",
 						"mock_get_group	param"
-					],
-					[
-						"file",
-						"filepath"
 					],
 					[
 						"meta",
@@ -1898,72 +1902,87 @@
 			"buffers":
 			[
 				{
-					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_asset_migration.py",
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/update_jnj_group_parents.py",
 					"settings":
 					{
-						"buffer_size": 2123,
+						"buffer_size": 5041,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/draeger_cleanup_lisa.py",
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/group_mapping.json",
 					"settings":
 					{
-						"buffer_size": 1643,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nMaterial Theme:\n--------------\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  \n  Version 1.8.6\n  ********************************************************************************\n  \n  #### COLOR SCHEME\n     \n     - Fix regression with javascript syntax highlight\n\n  Material Theme for Sublime Text 3\n  https://github.com/equinusocio/material-theme\n  \n  \n  Version 1.8.5\n  ********************************************************************************\n  \n  #### UI IMPROVEMENTS\n  \n     - Minor UI improvements\n     - Update GO file type icon\n  \n  #### COLOR SCHEME\n     \n     - Minor syntax color improvements   \n     ",
-					"settings":
-					{
-						"buffer_size": 712,
+						"buffer_size": 2848,
 						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"scratch": true
+						"name": "{"
 					}
 				},
 				{
-					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj_consolidate_assests_in_lifescan_groups.py",
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/bag_user_migration.py",
 					"settings":
 					{
-						"buffer_size": 3279,
+						"buffer_size": 3265,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/exo/pypila bash git docker.md",
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/test_group_mapping.json",
 					"settings":
 					{
-						"buffer_size": 4962,
+						"buffer_size": 139,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "Searching 373 files for \"ZScriptsParser\"\n\n/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/bag_asset_migration.py:\n   22  from zonza_scripts import settings\n   23  from zonza_scripts.utils.log import get_logger\n   24: from zonza_scripts.utils.parser import ZScriptsParser\n   25  \n   26  log = get_logger(__file__)\n   ..\n  132  \n  133  def main():\n  134:     parser = ZScriptsParser()\n  135      parser.add_argument(\n  136          '-f', '--file', type=unicode, required=True,\n\n/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/bag_set_migration.py:\n   22  from zonza_scripts import settings\n   23  from zonza_scripts.utils.log import get_logger\n   24: from zonza_scripts.utils.parser import ZScriptsParser\n   25  \n   26  log = get_logger(__file__)\n   ..\n  106  \n  107  def main():\n  108:     parser = ZScriptsParser()\n  109      parser.add_argument(\n  110          '-f', '--file', type=unicode, required=True,\n\n/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/bag_user_migration.py:\n   22  \n   23  from zonza_scripts.utils.log import get_logger\n   24: from zonza_scripts.utils.parser import ZScriptsParser\n   25  from zonza_scripts.utils.session import login_to_zonza, URL\n   26  \n   ..\n   91  \n   92  def main():\n   93:     parser = ZScriptsParser()\n   94      parser.add_argument(\n   95          '-f', '--file', type=unicode, required=True,\n\n/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/utils/parser.py:\n    8  \n    9  \n   10: class ZScriptsParser(ArgumentParser):\n   11  \n   12      def __init__(self, *args, **kwargs):\n   13:         super(ZScriptsParser, self).__init__(*args, **kwargs)\n   14          self.add_argument(\n   15              '-d', '--dryrun', action='store_true',\n   ..\n   18  \n   19      def parse_args(self, *args, **kwargs):\n   20:         args = super(ZScriptsParser, self).parse_args(*args, **kwargs)\n   21  \n   22          if not args.dryrun:\n\n9 matches across 4 files\n",
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/test_group_mapping_reverse.json",
 					"settings":
 					{
-						"buffer_size": 2035,
+						"buffer_size": 139,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/migrate_jnj_users.py",
+					"settings":
+					{
+						"buffer_size": 6270,
 						"line_ending": "Unix",
-						"name": "Find Results",
-						"scratch": true
+						"name": "import logging"
 					}
 				},
 				{
-					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/bag_asset_migration.py",
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/deluxe_zonza_site.py",
 					"settings":
 					{
-						"buffer_size": 4142,
+						"buffer_size": 2003,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "============================= test session starts ==============================\nplatform linux2 -- Python 2.7.3 -- py-1.4.30 -- pytest-2.7.2\nrootdir: /home/jenkins/workspace/zonza-scripts, inifile: tox.ini\nplugins: cov\ncollected 35 items\n\nsrc/zonza_scripts/example/test_example.py .\nsrc/zonza_scripts/tests/test_asset_group_share_migration.py ...\nsrc/zonza_scripts/tests/test_asset_migration.py .\nsrc/zonza_scripts/tests/test_asset_shares_report.py .\nsrc/zonza_scripts/tests/test_create_users_from_spreadsheet.py ...\nsrc/zonza_scripts/tests/test_export_asset_metadata.py .\nsrc/zonza_scripts/tests/test_import_asset_metadata.py .\nsrc/zonza_scripts/tests/test_metadata_schema_blowback.py ...\nsrc/zonza_scripts/tests/test_remove_assets_permission.py .\nsrc/zonza_scripts/tests/test_turbo_usage_report.py .\nsrc/zonza_scripts/tests/test_update_asset_shares.py ....\nsrc/zonza_scripts/tests/test_update_content_type_label.py ...\nsrc/zonza_scripts/tests/test_update_users_homepage.py ..\nsrc/zonza_scripts/tests/test_utils.py ....\nsrc/zonza_scripts/tests/test_validate.py .\nsrc/zonza_scripts/tests/zonza_scripts_acceptance_test.py ..xxx\n--------------- coverage: platform linux2, python 2.7.3-final-0 ----------------\nCoverage XML written to file coverage.xml\n\n==================== 32 passed, 3 xfailed in 83.22 seconds =====================\nlint recreate: /home/jenkins/workspace/zonza-scripts/.tox/lint\nlint installdeps: flake8==2.1.0, pep8==1.5.7, mccabe==0.2.1, pep8-naming==0.2.2\nlint develop-inst: /home/jenkins/workspace/zonza-scripts\nlint installed: decorator==4.0.2,docutils==0.12,flake8==2.1.0,jdcal==1.0,Jinja2==2.8,lxml==2.3.6,MarkupSafe==0.23,mccabe==0.2.1,openpyxl==2.0.5,openpyxl-wrapper==2.2.0,pep8==1.5.7,pep8-naming==0.2.2,PyContracts==1.7.6,pyflakes==0.9.2,Pygments==2.0.2,pyparsing==2.0.3,PyXB==1.2.2,requests==2.6.0,six==1.9.0,Sphinx==1.2.3,vidisdk==2.1.0,wheel==0.24.0,XlsxWriter==0.7.3,zonza-scripts==0.1.1.dev0,zonza-vidispine-adapter==10.2.0\nlint runtests: PYTHONHASHSEED='1875172437'\nlint runtests: commands[0] | flake8 /home/jenkins/workspace/zonza-scripts/src/\n/home/jenkins/workspace/zonza-scripts/src/zonza_scripts/custom/draeger_cleanup_lisa.py:3:1: F401 'date' imported but unused\n/home/jenkins/workspace/zonza-scripts/src/zonza_scripts/custom/draeger_cleanup_lisa.py:42:9: F841 local variable 'filename' is assigned to but never used\n/home/jenkins/workspace/zonza-scripts/src/zonza_scripts/custom/draeger_cleanup_lisa.py:57:5: E303 too many blank lines (2)\nERROR: InvocationError: '/home/jenkins/workspace/zonza-scripts/.tox/lint/bin/flake8 /home/jenkins/workspace/zonza-scripts/src/'\n___________________________________ summary ____________________________________\n  py27: commands succeeded\nERROR:   lint: commands failed\nBuild step 'Execute shell' marked build as failure\nSkipping Cobertura coverage report as build was not UNSTABLE or better ...\nFinished: FAILURE",
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/.tox/lint/lib/python2.7/site-packages/vidispine_adapter/adapters/adapter.py",
 					"settings":
 					{
-						"buffer_size": 2891,
+						"buffer_size": 115690,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/ migrate_jnj_assets.py",
+					"settings":
+					{
+						"buffer_size": 7827,
 						"line_ending": "Unix",
-						"name": "============================= test session starts"
+						"name": "from __future__ import unicode_literals"
+					}
+				},
+				{
+					"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/migrate_jnj_assets_new.py",
+					"settings":
+					{
+						"buffer_size": 3787,
+						"line_ending": "Unix",
+						"name": "# coding: utf-8"
 					}
 				}
 			],
@@ -2012,10 +2031,26 @@
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/utils"
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/settings"
 			],
 			"file_history":
 			[
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/add_users_to_groups.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/zonza_remove_all_and_add_new_perms.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty/user_migration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/test_agency_groups_perms.json",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/update_jnj_group_parents.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/group_parent_mapping.json",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/{.json",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/test_agency_groups_perms.json",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/legacy/zonza_scripts_legacy/csv_update_metadata.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_asset_migration.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/draeger_cleanup_lisa.py",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj_consolidate_assests_in_lifescan_groups.py",
+				"/home/exo/pypila bash git docker.md",
+				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/bag_asset_migration.py",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/jnj_asset_migration.py",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/draeger_download_assets.py",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/tests/test_vidispineintegration.py",
@@ -2041,7 +2076,6 @@
 				"/home/exo/pdev/blog_flask/app/forms.py",
 				"/home/exo/pdev/blog_flask/app/templates/login.html",
 				"/home/exo/pdev/blog_flask/app/templates/base.html",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_asset_migration.py",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/scripts/asset_group_share_migration.py",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/tests/test_asset_migration.py",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/adapter.py",
@@ -2130,20 +2164,7 @@
 				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/bulk_ingest/ingest/validation.py",
 				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/ingest/format.py",
 				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/utils/logtools.py",
-				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/ZonzaRest/metadata.py",
-				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/py27/lib/python2.7/site-packages/ZonzaRest/metadata.py",
-				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/bulk_ingest/utils/asset_metadata_adapter.py",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/vidispine_adapter/adapters/set_adapter.py",
-				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/ZonzaRest/item.py",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/.tox/py27/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/item/tests/test_forms.py",
-				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/tests/test_import_port.py",
-				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/src/bulk_ingest/utils/share.py",
-				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/thorax/api.py",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/views/users.py",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/tests/tests_users.py",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zonzaadmin/forms/users.py",
-				"/home/exo/wdev/zonza-environment-builder/code/zonza/portal/zonza/zsites/adapters.py"
+				"/home/exo/wdev/zonza-environment-builder/code/bulk-ingest/.tox/lint/lib/python2.7/site-packages/ZonzaRest/metadata.py"
 			],
 			"find":
 			{
@@ -2154,6 +2175,9 @@
 				"height": 164.0,
 				"where_history":
 				[
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/",
+					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
+					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/",
 					"~/wdev/zonza-environment-builder/code/zonza-scripts/src/",
 					"~/wdev/zonza-environment-builder/code/zonza-vidispine-adapter/src/",
 					"~/wdev/zonza-environment-builder/code/zonza/portal/",
@@ -2272,6 +2296,12 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"in_bulk",
+					"exception",
+					"from",
+					"Searching",
+					"logger.exception",
+					"from django import setup",
 					"add_some_acls",
 					"ZScriptsParser",
 					"test_import_file_to_a_non_placeholder",
@@ -2393,12 +2423,6 @@
 					"test_create_group_with_no_existing_child_group",
 					"create_group_with_child_and_zonza_roles",
 					"Luser",
-					"get_group",
-					"stora",
-					"setport",
-					"admin_user",
-					"storageport",
-					"class ",
 					"get_group"
 				],
 				"highlight": true,
@@ -2478,29 +2502,60 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 8,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/coty_asset_migration.py",
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/update_jnj_group_parents.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2123,
+								"buffer_size": 5041,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										610,
-										610
+										4933,
+										4933
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2760.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/group_mapping.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2848,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										420,
+										420
+									]
+								],
+								"settings":
+								{
+									"auto_name": "{",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
@@ -2508,24 +2563,24 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/draeger_cleanup_lisa.py",
+							"buffer": 2,
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/bag_user_migration.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1643,
+								"buffer_size": 3265,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										645,
-										645
+										2126,
+										2126
 									]
 								],
 								"settings":
@@ -2535,175 +2590,32 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 528.0,
+								"translation.y": 1242.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 712,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										516,
-										516
-									]
-								],
-								"settings":
-								{
-									"auto_indent": false,
-									"default_dir": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
 							"buffer": 3,
-							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj_consolidate_assests_in_lifescan_groups.py",
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/test_group_mapping.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3279,
+								"buffer_size": 139,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2388,
-										2388
+										136,
+										136
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 990.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/exo/pypila bash git docker.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4962,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4962,
-										4962
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 2326.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2035,
-								"regions":
-								{
-									"match":
-									{
-										"flags": 112,
-										"regions":
-										[
-											[
-												293,
-												307
-											],
-											[
-												403,
-												417
-											],
-											[
-												762,
-												776
-											],
-											[
-												872,
-												886
-											],
-											[
-												1198,
-												1212
-											],
-											[
-												1341,
-												1355
-											],
-											[
-												1575,
-												1589
-											],
-											[
-												1684,
-												1698
-											],
-											[
-												1916,
-												1930
-											]
-										],
-										"scope": ""
-									}
-								},
-								"selection":
-								[
-									[
-										408,
-										408
-									]
-								],
-								"settings":
-								{
-									"default_dir": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts",
-									"detect_indentation": false,
-									"line_numbers": false,
-									"output_tag": 1,
-									"result_base_dir": "",
-									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-									"result_line_regex": "^ +([0-9]+):",
-									"scroll_past_end": true,
-									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2713,20 +2625,79 @@
 							"type": "text"
 						},
 						{
-							"buffer": 6,
-							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/bag_asset_migration.py",
+							"buffer": 4,
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/test_group_mapping_reverse.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4142,
+								"buffer_size": 139,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										568,
-										622
+										136,
+										136
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/migrate_jnj_users.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6270,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4501,
+										4501
+									]
+								],
+								"settings":
+								{
+									"auto_name": "import logging",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2139.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/deluxe_zonza_site.py",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 2003,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2736,39 +2707,102 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 184.0,
+								"translation.y": 759.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
 							"buffer": 7,
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/.tox/lint/lib/python2.7/site-packages/vidispine_adapter/adapters/adapter.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2891,
+								"buffer_size": 115690,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2891,
-										2891
+										39370,
+										39370
 									]
 								],
 								"settings":
 								{
-									"auto_name": "============================= test session starts",
-									"default_dir": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 24413.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/ migrate_jnj_assets.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7827,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7456,
+										7456
+									]
+								],
+								"settings":
+								{
+									"auto_name": "from __future__ import unicode_literals",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4661.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/exo/wdev/zonza-environment-builder/code/zonza-scripts/src/zonza_scripts/custom/jnj/migrate_jnj_assets_new.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3787,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1918,
+										1918
+									]
+								],
+								"settings":
+								{
+									"auto_name": "# coding: utf-8",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1035.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2776,7 +2810,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 30.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -2810,11 +2844,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,-4,537,636,1017,1920,1080",
+			"position": "0,1,0,0,0,2876,0,3832,1171,3840,1200",
 			"project": "zs.sublime-project",
 			"replace":
 			{
-				"height": 56.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3226,7 +3260,7 @@
 				[
 					[
 						"",
-						"~/Devel/bi/bi.sublime-project"
+						"~/Devel/z/z.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -3253,7 +3287,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 81,
+			"window_id": 88,
 			"workspace_name": "/home/exo/Devel/zs/zs.sublime-workspace"
 		}
 	],
@@ -3262,15 +3296,17 @@
 		"recent_workspaces":
 		[
 			"/home/exo/Devel/zs/zs.sublime-workspace",
-			"/home/exo/Devel/bi/bi.sublime-workspace",
-			"/home/exo/Devel/zva/zva.sublime-workspace",
 			"/home/exo/Devel/z/z.sublime-workspace",
+			"/home/exo/Devel/zva/zva.sublime-workspace",
 			"/home/exo/Devel/zeb/zeb.sublime-workspace",
+			"/home/exo/Devel/zde/zde.sublime-workspace",
+			"/home/exo/Devel/zas/zas.sublime-workspace",
+			"/home/exo/Devel/bi/bi.sublime-workspace",
+			"/home/exo/Devel/ib/ib.sublime-workspace",
 			"/home/exo/Devel/pypila/pypila.sublime-workspace",
 			"/home/exo/Devel/polymerflask/polymerflask.sublime-workspace",
 			"/home/exo/Devel/exo_board/exo_board.sublime-workspace",
 			"/home/exo/Devel/flask_blog/flask_blog.sublime-workspace",
-			"/home/exo/Devel/ib/ib.sublime-workspace",
 			"/home/exo/Devel/startpage/startpage.sublime-workspace",
 			"/home/exo/wdev/zeb.sublime-workspace",
 			"/home/exo/wdev/code.sublime-workspace",
